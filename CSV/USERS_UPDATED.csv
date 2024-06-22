@@ -1,6 +1,0 @@
-id_user,nombre,apellidos,correo_electronico,prefijo_telefono,numero_telefono,tipo_via,numero,codigo_postal,ciudad,pais,nombre_usuario,contrasena,tipo_usuario
-1,Juan,Pérez,juan@example.com,+34,123456789,Calle,123,28001,Madrid,España,juan123,pass123,visitante
-2,Ana,Gómez,ana@example.com,+34,987654321,Calle,456,28002,Madrid,España,ana456,pass456,ponente
-3,Carlos,López,carlos@example.com,+34,456789123,Calle,789,28003,Madrid,España,carlos789,pass789,collab
-4,Marta,Sánchez,marta@example.com,+34,321654987,Calle,101,28004,Madrid,España,marta101,pass101,collab
-5,Luis,Díaz,luis@example.com,+34,789123456,Calle,202,28005,Madrid,España,luis202,pass202,visitante

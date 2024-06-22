@@ -1,4 +1,0 @@
-id_collab,nombre_empresa,direccion_empresa,correo_empresa,telefono_empresa,tipo_collab,id_users
-1,Empresa A,"Calle F, 123",empresaA@example.com,111222333,Plantinium,"2,3"
-2,Empresa B,"Calle G, 456",empresaB@example.com,444555666,Gold,4
-3,Empresa C,"Calle H, 789",empresaC@example.com,777888999,Silver,5
