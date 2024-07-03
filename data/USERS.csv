@@ -1,301 +1,301 @@
-_id,name,surname,email,password,tokens,createdAt,updatedAt,__v,confirmed,company,position,phone_prefx,phone_number,address,zip_code,city,country,user_type,url_linkedin,allergies,interests,food_preferences
-1,Carlos,Gómez,user1@example.com,pass1,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Facilitador de Talleres,+34,615786083,Calle G 132,34144,Valencia,España,Assistant,https://linkedin.com/in/user1,"['Sésamo', 'Moluscos']",['Softskills'],vegano
-2,Jose,Díaz,user2@example.com,pass2,,2022-01-01,2022-01-01,0,Yes,Colegio B,Gestor de Comunidad,+34,629613106,Calle B 4,96979,Valencia,España,Assistant,https://linkedin.com/in/user2,"['Lácteos', 'Pescado', 'Azucar']",['Tecnología'],vegetariano
-3,Maria,Pérez,user3@example.com,pass3,,2022-01-01,2022-01-01,0,Yes,Colegio B,Responsable de Calidad,+34,602716833,Calle J 195,89142,Valencia,España,Assistant,https://linkedin.com/in/user3,['Moluscos'],['Negocios'],vegetariano
-4,Luis,Gómez,user4@example.com,pass4,,2022-01-01,2022-01-01,0,Yes,Colegio B,Diseñador Instruccional,+34,642871128,Calle A 19,20117,Barcelona,España,Assistant,https://linkedin.com/in/user4,[],"['Negocios', 'Marketing Digital']",vegano
-5,Juan,Sánchez,user5@example.com,pass5,,2022-01-01,2022-01-01,0,Yes,Colegio B,Analista de Datos Educativos,+34,673132819,Calle B 136,75320,Valencia,España,Assistant,https://linkedin.com/in/user5,[],"['Tecnología', 'Formación', 'Educación', 'Gestión de Proyectos', 'Diseño']",vegetariano
-6,Isabel,Pérez,user6@example.com,pass6,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Desarrollador de Contenidos,+34,655058386,Calle C 146,21683,Barcelona,España,Assistant,https://linkedin.com/in/user6,['Cacahuetes'],['Marketing Digital'],omnivoro
-7,Jose,Fernández,user7@example.com,pass7,,2022-01-01,2022-01-01,0,Yes,Escuela C,Gestor de Comunidad,+34,679361204,Calle A 156,64074,Barcelona,España,Assistant,https://linkedin.com/in/user7,"['Gluten', 'Lácteos']",['Agile'],omnivoro
-8,David,Martínez,user8@example.com,pass8,,2022-01-01,2022-01-01,0,Yes,Escuela C,Director de Formación,+34,656608211,Calle C 121,80066,Valencia,España,Assistant,https://linkedin.com/in/user8,['Mariscos'],"['Salud y Bienestar', 'Agile', 'Diseño']",vegano
-9,Luis,Pérez,user9@example.com,pass9,,2022-01-01,2022-01-01,0,Yes,Colegio B,Especialista en Marketing de E-learning,+34,617871170,Calle E 8,81816,Zaragoza,España,Assistant,https://linkedin.com/in/user9,[],"['Salud y Bienestar', 'Creatividad']",omnivoro
-10,Laura,Martínez,user10@example.com,pass10,,2022-01-01,2022-01-01,0,Yes,Escuela C,Investigador en E-learning,+34,625803953,Calle F 44,97163,Madrid,España,Assistant,https://linkedin.com/in/user10,['Sulfitos'],"['Marketing Digital', 'Softskills', 'Tecnología']",vegano
-11,Isabel,Pérez,user11@example.com,pass11,,2022-01-01,2022-01-01,0,Yes,Universidad A,Director de Formación,+34,622048295,Calle H 141,43288,Sevilla,España,Assistant,https://linkedin.com/in/user11,['Sésamo'],"['Softskills', 'Creatividad', 'Tecnología']",vegano
-12,Luis,López,user12@example.com,pass12,,2022-01-01,2022-01-01,0,Yes,Colegio B,Analista de Datos Educativos,+34,687775487,Calle J 124,69703,Valencia,España,Assistant,https://linkedin.com/in/user12,[],"['Agile', 'Educación', 'Formación']",omnivoro
-13,Luis,Gómez,user13@example.com,pass13,,2022-01-01,2022-01-01,0,Yes,Colegio B,Facilitador de Talleres,+34,634072365,Calle A 166,37418,Madrid,España,Assistant,https://linkedin.com/in/user13,['Apio'],"['Formación', 'Emprendimiento', 'Tecnología', 'Softskills', 'Negocios']",omnivoro
-14,Carlos,Hernández,user14@example.com,pass14,,2022-01-01,2022-01-01,0,Yes,Colegio B,Gestor de Proyectos,+34,697452151,Calle A 48,17354,Madrid,España,Assistant,https://linkedin.com/in/user14,['Apio'],"['Tecnología', 'Agile']",omnivoro
-15,Isabel,Gómez,user15@example.com,pass15,,2022-01-01,2022-01-01,0,Yes,Universidad A,Director de Formación,+34,674608109,Calle B 4,62543,Madrid,España,Assistant,https://linkedin.com/in/user15,[],"['Negocios', 'Tecnología', 'Formación', 'Diseño', 'Softskills']",vegano
-16,Maria,Sánchez,user16@example.com,pass16,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Gestor de Comunidad,+34,678909109,Calle F 131,52165,Valencia,España,Assistant,https://linkedin.com/in/user16,[],"['Creatividad', 'Marketing Digital', 'Softskills', 'Agile', 'Formación']",vegetariano
-17,Ana,Pérez,user17@example.com,pass17,,2022-01-01,2022-01-01,0,Yes,Universidad A,Director de Tecnología,+34,684507051,Calle B 86,78381,Zaragoza,España,Assistant,https://linkedin.com/in/user17,"['Azucar', 'Apio']",['Salud y Bienestar'],vegetariano
-18,Luis,Rodríguez,user18@example.com,pass18,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Consultor de E-learning,+34,685323654,Calle C 191,71810,Madrid,España,Assistant,https://linkedin.com/in/user18,[],['Marketing Digital'],vegano
-19,David,Pérez,user19@example.com,pass19,,2022-01-01,2022-01-01,0,Yes,Escuela C,Desarrollador de E-learning,+34,682596580,Calle E 22,87426,Valencia,España,Assistant,https://linkedin.com/in/user19,['Cacahuetes'],"['Emprendimiento', 'Creatividad', 'Negocios', 'Educación', 'Gestión de Proyectos']",vegetariano
-20,Marta,García,user20@example.com,pass20,,2022-01-01,2022-01-01,0,Yes,Universidad A,Desarrollador de Contenidos,+34,660806048,Calle A 83,41860,Sevilla,España,Assistant,https://linkedin.com/in/user20,[],"['Emprendimiento', 'Softskills', 'Tecnología', 'Agile']",vegano
-21,David,Rodríguez,user21@example.com,pass21,,2022-01-01,2022-01-01,0,Yes,Colegio B,Desarrollador de E-learning,+34,663800244,Calle J 142,19443,Sevilla,España,Assistant,https://linkedin.com/in/user21,[],"['Formación', 'Educación', 'Salud y Bienestar', 'Softskills', 'Agile']",omnivoro
-22,Jose,Sánchez,user22@example.com,pass22,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Investigador en E-learning,+34,663101828,Calle B 177,12124,Zaragoza,España,Assistant,https://linkedin.com/in/user22,['Sal'],"['Emprendimiento', 'Diseño']",vegano
-23,Juan,Rodríguez,user23@example.com,pass23,,2022-01-01,2022-01-01,0,Yes,Colegio B,Diseñador Instruccional,+34,618477807,Calle I 164,90591,Zaragoza,España,Assistant,https://linkedin.com/in/user23,[],"['Formación', 'Softskills', 'Agile', 'Emprendimiento']",vegano
-24,Maria,Sánchez,user24@example.com,pass24,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Instructor / Formador,+34,639870128,Calle E 172,71359,Valencia,España,Assistant,https://linkedin.com/in/user24,['Pescado'],['Softskills'],vegetariano
-25,David,Hernández,user25@example.com,pass25,,2022-01-01,2022-01-01,0,Yes,Universidad A,Especialista en Marketing de E-learning,+34,607209781,Calle H 45,46865,Barcelona,España,Assistant,https://linkedin.com/in/user25,"['Azucar', 'Pescado']","['Salud y Bienestar', 'Educación', 'Agile', 'Softskills', 'Tecnología']",vegano
-26,Maria,Gómez,user26@example.com,pass26,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Desarrollador de E-learning,+34,698536934,Calle H 35,35890,Zaragoza,España,Assistant,https://linkedin.com/in/user26,"['Moluscos', 'Gluten']",['Formación'],vegano
-27,Laura,Martínez,user27@example.com,pass27,,2022-01-01,2022-01-01,0,Yes,Universidad A,Director de Formación,+34,694917433,Calle D 33,33924,Valencia,España,Assistant,https://linkedin.com/in/user27,"['Gluten', 'Altramuz', 'Apio']",['Marketing Digital'],omnivoro
-28,Carlos,Rodríguez,user28@example.com,pass28,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Diseñador Instruccional,+34,662293783,Calle B 94,43353,Barcelona,España,Assistant,https://linkedin.com/in/user28,"['Sésamo', 'Pescado']","['Educación', 'Softskills', 'Diseño', 'Tecnología', 'Creatividad']",vegetariano
-29,Maria,Hernández,user29@example.com,pass29,,2022-01-01,2022-01-01,0,Yes,Escuela C,Director de Innovación,+34,611852591,Calle I 45,85338,Valencia,España,Assistant,https://linkedin.com/in/user29,['Soja'],['Diseño'],omnivoro
-30,Juan,Sánchez,user30@example.com,pass30,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Facilitador de Talleres,+34,654420366,Calle B 111,60820,Barcelona,España,Assistant,https://linkedin.com/in/user30,['Altramuz'],"['Salud y Bienestar', 'Creatividad', 'Softskills']",omnivoro
-31,Laura,Sánchez,user31@example.com,pass31,,2022-01-01,2022-01-01,0,Yes,Escuela C,Especialista en Evaluación,+34,606603026,Calle C 159,34353,Zaragoza,España,Assistant,https://linkedin.com/in/user31,"['Frutos secos', 'Lácteos', 'Mariscos']","['Salud y Bienestar', 'Formación']",vegano
-32,Juan,Hernández,user32@example.com,pass32,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Director de Tecnología,+34,610270647,Calle C 21,50357,Sevilla,España,Assistant,https://linkedin.com/in/user32,"['Pescado', 'Soja', 'Altramuz']","['Creatividad', 'Educación', 'Tecnología', 'Diseño']",vegano
-33,Luis,Martínez,user33@example.com,pass33,,2022-01-01,2022-01-01,0,Yes,Escuela C,Investigador en E-learning,+34,658281226,Calle B 85,83335,Sevilla,España,Assistant,https://linkedin.com/in/user33,[],['Softskills'],vegetariano
-34,Carlos,Hernández,user34@example.com,pass34,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Desarrollador de E-learning,+34,680757091,Calle C 200,96827,Barcelona,España,Assistant,https://linkedin.com/in/user34,"['Lácteos', 'Soja']","['Gestión de Proyectos', 'Tecnología']",vegano
-35,Marta,Gómez,user35@example.com,pass35,,2022-01-01,2022-01-01,0,Yes,Universidad A,Especialista en Soporte Técnico,+34,640128664,Calle D 144,36040,Zaragoza,España,Assistant,https://linkedin.com/in/user35,"['Apio', 'Azucar', 'Cacahuetes']",['Negocios'],omnivoro
-36,Marta,Sánchez,user36@example.com,pass36,,2022-01-01,2022-01-01,0,Yes,Universidad A,Gestor de Comunidad,+34,603191799,Calle A 62,32046,Valencia,España,Assistant,https://linkedin.com/in/user36,"['Pescado', 'Azucar']","['Emprendimiento', 'Salud y Bienestar']",omnivoro
-37,David,Gómez,user37@example.com,pass37,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Instructor / Formador,+34,674009875,Calle F 174,19499,Valencia,España,Assistant,https://linkedin.com/in/user37,"['Altramuz', 'Gluten', 'Huevos']","['Creatividad', 'Educación', 'Softskills', 'Agile', 'Marketing Digital']",omnivoro
-38,Ana,Sánchez,user38@example.com,pass38,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Director de Innovación,+34,615283360,Calle I 145,11422,Sevilla,España,Assistant,https://linkedin.com/in/user38,"['Azucar', 'Huevos']","['Agile', 'Negocios']",vegano
-39,David,Gómez,user39@example.com,pass39,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Consultor de E-learning,+34,649319019,Calle D 13,57474,Valencia,España,Assistant,https://linkedin.com/in/user39,"['Huevos', 'Sulfitos']",['Diseño'],vegano
-40,Ana,Pérez,user40@example.com,pass40,,2022-01-01,2022-01-01,0,Yes,Colegio B,Especialista en Marketing de E-learning,+34,668129313,Calle C 68,65712,Sevilla,España,Assistant,https://linkedin.com/in/user40,[],"['Marketing Digital', 'Agile', 'Emprendimiento', 'Salud y Bienestar', 'Gestión de Proyectos']",vegetariano
-41,Isabel,Gómez,user41@example.com,pass41,,2022-01-01,2022-01-01,0,Yes,Escuela C,Gestor de Comunidad,+34,656591718,Calle E 100,15407,Sevilla,España,Assistant,https://linkedin.com/in/user41,"['Moluscos', 'Sésamo']","['Emprendimiento', 'Salud y Bienestar']",vegetariano
-42,Jose,Díaz,user42@example.com,pass42,,2022-01-01,2022-01-01,0,Yes,Colegio B,Especialista en Evaluación,+34,632951145,Calle C 119,22136,Sevilla,España,Assistant,https://linkedin.com/in/user42,"['Gluten', 'Cacahuetes']","['Agile', 'Formación', 'Salud y Bienestar']",omnivoro
-43,Carlos,López,user43@example.com,pass43,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Gestor de Comunidad,+34,654339126,Calle B 49,40369,Sevilla,España,Assistant,https://linkedin.com/in/user43,"['Sal', 'Huevos', 'Mostaza']","['Marketing Digital', 'Salud y Bienestar', 'Creatividad', 'Formación', 'Gestión de Proyectos']",omnivoro
-44,Maria,Fernández,user44@example.com,pass44,,2022-01-01,2022-01-01,0,Yes,Escuela C,Desarrollador de Contenidos,+34,626585457,Calle G 43,95081,Zaragoza,España,Assistant,https://linkedin.com/in/user44,"['Altramuz', 'Huevos']",['Gestión de Proyectos'],vegetariano
-45,Carlos,Sánchez,user45@example.com,pass45,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Instructor / Formador,+34,621024400,Calle I 174,30756,Barcelona,España,Assistant,https://linkedin.com/in/user45,"['Sal', 'Frutos secos']","['Gestión de Proyectos', 'Marketing Digital']",omnivoro
-46,Laura,Hernández,user46@example.com,pass46,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Coordinador de Cursos,+34,692396551,Calle B 157,79935,Sevilla,España,Assistant,https://linkedin.com/in/user46,['Lácteos'],"['Agile', 'Formación', 'Gestión de Proyectos', 'Emprendimiento', 'Diseño']",vegano
-47,Ana,García,user47@example.com,pass47,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Director de Formación,+34,621104587,Calle F 148,83684,Barcelona,España,Assistant,https://linkedin.com/in/user47,"['Apio', 'Soja', 'Mariscos']","['Agile', 'Diseño', 'Negocios', 'Tecnología']",omnivoro
-48,Jose,García,user48@example.com,pass48,,2022-01-01,2022-01-01,0,Yes,Escuela C,Diseñador Instruccional,+34,606360426,Calle E 37,92349,Barcelona,España,Assistant,https://linkedin.com/in/user48,['Mariscos'],"['Formación', 'Marketing Digital', 'Educación', 'Gestión de Proyectos']",omnivoro
-49,Ana,Pérez,user49@example.com,pass49,,2022-01-01,2022-01-01,0,Yes,Colegio B,Especialista en Evaluación,+34,680601857,Calle H 62,51596,Barcelona,España,Assistant,https://linkedin.com/in/user49,[],"['Agile', 'Negocios', 'Softskills', 'Diseño']",omnivoro
-50,Maria,Sánchez,user50@example.com,pass50,,2022-01-01,2022-01-01,0,Yes,Escuela C,Responsable de Calidad,+34,626096142,Calle F 80,30395,Sevilla,España,Assistant,https://linkedin.com/in/user50,"['Huevos', 'Mariscos', 'Frutos secos']","['Emprendimiento', 'Agile', 'Educación', 'Gestión de Proyectos']",vegetariano
-51,David,Sánchez,user51@example.com,pass51,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Coordinador de Cursos,+34,621373001,Calle F 96,10111,Valencia,España,Assistant,https://linkedin.com/in/user51,"['Pescado', 'Sal']","['Marketing Digital', 'Creatividad', 'Softskills', 'Gestión de Proyectos']",vegetariano
-52,Juan,Fernández,user52@example.com,pass52,,2022-01-01,2022-01-01,0,Yes,Escuela C,Gestor de Proyectos,+34,626806065,Calle J 92,48649,Zaragoza,España,Assistant,https://linkedin.com/in/user52,['Soja'],"['Marketing Digital', 'Agile', 'Gestión de Proyectos', 'Salud y Bienestar']",omnivoro
-53,Luis,Pérez,user53@example.com,pass53,,2022-01-01,2022-01-01,0,Yes,Universidad A,Diseñador Instruccional,+34,691141456,Calle E 177,94686,Madrid,España,Assistant,https://linkedin.com/in/user53,[],['Emprendimiento'],vegano
-54,Laura,Martínez,user54@example.com,pass54,,2022-01-01,2022-01-01,0,Yes,Escuela C,Gestor de Proyectos,+34,623400029,Calle D 98,68127,Valencia,España,Assistant,https://linkedin.com/in/user54,"['Huevos', 'Sulfitos', 'Cacahuetes']",['Salud y Bienestar'],omnivoro
-55,Carlos,García,user55@example.com,pass55,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Analista de Datos Educativos,+34,628066845,Calle I 31,68388,Barcelona,España,Assistant,https://linkedin.com/in/user55,[],"['Emprendimiento', 'Softskills', 'Creatividad', 'Marketing Digital']",vegano
-56,Isabel,Díaz,user56@example.com,pass56,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Instructor / Formador,+34,680202643,Calle B 158,39747,Sevilla,España,Assistant,https://linkedin.com/in/user56,[],"['Salud y Bienestar', 'Softskills', 'Educación', 'Marketing Digital']",vegetariano
-57,Laura,Fernández,user57@example.com,pass57,,2022-01-01,2022-01-01,0,Yes,Universidad A,Desarrollador de E-learning,+34,644114022,Calle D 117,89133,Valencia,España,Assistant,https://linkedin.com/in/user57,['Apio'],['Formación'],vegano
-58,Ana,García,user58@example.com,pass58,,2022-01-01,2022-01-01,0,Yes,Universidad A,Director de Tecnología,+34,641441944,Calle E 96,35128,Barcelona,España,Assistant,https://linkedin.com/in/user58,"['Apio', 'Sésamo', 'Mostaza']","['Creatividad', 'Salud y Bienestar', 'Gestión de Proyectos', 'Marketing Digital', 'Tecnología']",vegetariano
-59,Luis,García,user59@example.com,pass59,,2022-01-01,2022-01-01,0,Yes,Escuela C,Gestor de Comunidad,+34,685797673,Calle H 160,46714,Valencia,España,Assistant,https://linkedin.com/in/user59,[],['Gestión de Proyectos'],vegano
-60,Isabel,Fernández,user60@example.com,pass60,,2022-01-01,2022-01-01,0,Yes,Universidad A,Coordinador de Cursos,+34,627911026,Calle C 87,73286,Sevilla,España,Assistant,https://linkedin.com/in/user60,[],"['Salud y Bienestar', 'Negocios']",vegano
-61,David,García,user61@example.com,pass61,,2022-01-01,2022-01-01,0,Yes,Universidad A,Desarrollador de E-learning,+34,643458740,Calle C 160,62476,Barcelona,España,Assistant,https://linkedin.com/in/user61,['Soja'],"['Formación', 'Diseño', 'Educación', 'Marketing Digital', 'Softskills']",vegetariano
-62,Luis,López,user62@example.com,pass62,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Facilitador de Talleres,+34,610554922,Calle B 8,84143,Sevilla,España,Assistant,https://linkedin.com/in/user62,"['Pescado', 'Moluscos']","['Creatividad', 'Gestión de Proyectos', 'Marketing Digital', 'Diseño', 'Tecnología']",vegetariano
-63,Jose,Hernández,user63@example.com,pass63,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Responsable de Calidad,+34,619613681,Calle E 81,76499,Valencia,España,Assistant,https://linkedin.com/in/user63,['Moluscos'],"['Softskills', 'Agile', 'Educación']",vegetariano
-64,Jose,Pérez,user64@example.com,pass64,,2022-01-01,2022-01-01,0,Yes,Universidad A,Administrador de Plataforma,+34,665854378,Calle D 122,12017,Sevilla,España,Assistant,https://linkedin.com/in/user64,"['Frutos secos', 'Azucar']","['Educación', 'Softskills', 'Agile', 'Creatividad']",vegetariano
-65,Juan,Hernández,user65@example.com,pass65,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Desarrollador de E-learning,+34,647462909,Calle D 16,14103,Barcelona,España,Assistant,https://linkedin.com/in/user65,['Sal'],"['Salud y Bienestar', 'Formación', 'Emprendimiento', 'Diseño']",omnivoro
-66,Marta,Hernández,user66@example.com,pass66,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Gestor de Comunidad,+34,642348212,Calle B 161,16264,Sevilla,España,Assistant,https://linkedin.com/in/user66,[],"['Formación', 'Creatividad', 'Educación', 'Gestión de Proyectos']",omnivoro
-67,Jose,Fernández,user67@example.com,pass67,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Especialista en Marketing de E-learning,+34,619369387,Calle I 126,52120,Madrid,España,Assistant,https://linkedin.com/in/user67,['Mariscos'],['Softskills'],vegano
-68,David,Fernández,user68@example.com,pass68,,2022-01-01,2022-01-01,0,Yes,Escuela C,Asesor Pedagógico,+34,635095099,Calle B 7,45345,Valencia,España,Assistant,https://linkedin.com/in/user68,[],"['Negocios', 'Tecnología', 'Softskills', 'Diseño']",omnivoro
-69,Laura,Díaz,user69@example.com,pass69,,2022-01-01,2022-01-01,0,Yes,Colegio B,Facilitador de Talleres,+34,652398626,Calle B 123,86105,Valencia,España,Assistant,https://linkedin.com/in/user69,[],"['Negocios', 'Tecnología']",omnivoro
-70,Isabel,Hernández,user70@example.com,pass70,,2022-01-01,2022-01-01,0,Yes,Escuela C,Administrador de Plataforma,+34,644323985,Calle J 122,72908,Zaragoza,España,Assistant,https://linkedin.com/in/user70,"['Sésamo', 'Sal', 'Huevos']","['Tecnología', 'Educación', 'Negocios', 'Softskills']",omnivoro
-71,David,Gómez,user71@example.com,pass71,,2022-01-01,2022-01-01,0,Yes,Colegio B,Especialista en Soporte Técnico,+34,601191662,Calle E 58,29598,Zaragoza,España,Assistant,https://linkedin.com/in/user71,['Mostaza'],['Agile'],vegano
-72,Carlos,Sánchez,user72@example.com,pass72,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Responsable de Calidad,+34,664471946,Calle H 15,51719,Barcelona,España,Assistant,https://linkedin.com/in/user72,['Moluscos'],"['Diseño', 'Creatividad', 'Marketing Digital', 'Tecnología', 'Salud y Bienestar']",omnivoro
-73,Marta,Díaz,user73@example.com,pass73,,2022-01-01,2022-01-01,0,Yes,Escuela C,Consultor de E-learning,+34,689359790,Calle J 192,29264,Sevilla,España,Assistant,https://linkedin.com/in/user73,['Altramuz'],"['Diseño', 'Salud y Bienestar', 'Gestión de Proyectos', 'Softskills', 'Emprendimiento']",vegetariano
-74,Carlos,Martínez,user74@example.com,pass74,,2022-01-01,2022-01-01,0,Yes,Escuela C,Consultor de E-learning,+34,607893973,Calle A 114,25139,Valencia,España,Assistant,https://linkedin.com/in/user74,['Lácteos'],"['Tecnología', 'Emprendimiento']",vegano
-75,Luis,Hernández,user75@example.com,pass75,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Facilitador de Talleres,+34,605787662,Calle G 35,36951,Madrid,España,Assistant,https://linkedin.com/in/user75,[],"['Educación', 'Negocios']",omnivoro
-76,Maria,López,user76@example.com,pass76,,2022-01-01,2022-01-01,0,Yes,Colegio B,Gestor de Proyectos,+34,659879016,Calle J 61,84511,Sevilla,España,Assistant,https://linkedin.com/in/user76,"['Pescado', 'Cacahuetes']",['Salud y Bienestar'],omnivoro
-77,Juan,López,user77@example.com,pass77,,2022-01-01,2022-01-01,0,Yes,Colegio B,Facilitador de Talleres,+34,669755884,Calle E 133,66335,Madrid,España,Assistant,https://linkedin.com/in/user77,"['Mostaza', 'Sal', 'Sulfitos']","['Educación', 'Emprendimiento', 'Negocios']",vegano
-78,Maria,Hernández,user78@example.com,pass78,,2022-01-01,2022-01-01,0,Yes,Escuela C,Especialista en Soporte Técnico,+34,618545289,Calle B 103,88774,Madrid,España,Assistant,https://linkedin.com/in/user78,"['Lácteos', 'Mariscos']","['Agile', 'Formación', 'Marketing Digital', 'Gestión de Proyectos']",vegano
-79,Juan,Rodríguez,user79@example.com,pass79,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Responsable de Calidad,+34,696578215,Calle J 14,97107,Barcelona,España,Assistant,https://linkedin.com/in/user79,['Frutos secos'],"['Formación', 'Marketing Digital']",vegetariano
-80,Maria,Fernández,user80@example.com,pass80,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Gestor de Comunidad,+34,690443313,Calle B 5,28030,Barcelona,España,Assistant,https://linkedin.com/in/user80,[],"['Softskills', 'Negocios', 'Diseño', 'Formación', 'Gestión de Proyectos']",vegetariano
-81,Carlos,Sánchez,user81@example.com,pass81,,2022-01-01,2022-01-01,0,Yes,Escuela C,Administrador de Plataforma,+34,654757545,Calle C 138,22027,Valencia,España,Assistant,https://linkedin.com/in/user81,['Huevos'],"['Educación', 'Tecnología', 'Creatividad', 'Agile', 'Diseño']",omnivoro
-82,Juan,López,user82@example.com,pass82,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Desarrollador de E-learning,+34,671898261,Calle C 159,42827,Barcelona,España,Assistant,https://linkedin.com/in/user82,"['Huevos', 'Lácteos', 'Sal']","['Agile', 'Salud y Bienestar', 'Educación', 'Marketing Digital']",omnivoro
-83,Marta,Gómez,user83@example.com,pass83,,2022-01-01,2022-01-01,0,Yes,Universidad A,Asesor Pedagógico,+34,609963200,Calle H 87,27071,Zaragoza,España,Assistant,https://linkedin.com/in/user83,"['Frutos secos', 'Mostaza']",['Tecnología'],omnivoro
-84,Juan,Martínez,user84@example.com,pass84,,2022-01-01,2022-01-01,0,Yes,Universidad A,Coordinador de Cursos,+34,653740013,Calle I 181,82854,Madrid,España,Assistant,https://linkedin.com/in/user84,['Apio'],"['Tecnología', 'Salud y Bienestar', 'Gestión de Proyectos']",omnivoro
-85,Laura,Sánchez,user85@example.com,pass85,,2022-01-01,2022-01-01,0,Yes,Colegio B,Coordinador de Cursos,+34,627686533,Calle A 129,15040,Valencia,España,Assistant,https://linkedin.com/in/user85,[],['Softskills'],vegetariano
-86,Ana,Martínez,user86@example.com,pass86,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Facilitador de Talleres,+34,639204789,Calle C 28,78901,Valencia,España,Assistant,https://linkedin.com/in/user86,"['Pescado', 'Sulfitos']","['Softskills', 'Salud y Bienestar', 'Tecnología', 'Agile']",omnivoro
-87,Marta,Pérez,user87@example.com,pass87,,2022-01-01,2022-01-01,0,Yes,Colegio B,Facilitador de Talleres,+34,699160207,Calle G 72,16664,Sevilla,España,Assistant,https://linkedin.com/in/user87,[],['Formación'],omnivoro
-88,Laura,Martínez,user88@example.com,pass88,,2022-01-01,2022-01-01,0,Yes,Escuela C,Responsable de Calidad,+34,675350081,Calle D 148,22559,Barcelona,España,Assistant,https://linkedin.com/in/user88,"['Frutos secos', 'Apio', 'Cacahuetes']","['Educación', 'Emprendimiento', 'Formación']",vegetariano
-89,Laura,Rodríguez,user89@example.com,pass89,,2022-01-01,2022-01-01,0,Yes,Escuela C,Responsable de Calidad,+34,671564618,Calle A 177,29232,Valencia,España,Assistant,https://linkedin.com/in/user89,[],"['Salud y Bienestar', 'Negocios', 'Formación']",vegetariano
-90,Ana,Gómez,user90@example.com,pass90,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Responsable de Calidad,+34,657779710,Calle G 159,40072,Zaragoza,España,Assistant,https://linkedin.com/in/user90,['Lácteos'],"['Negocios', 'Softskills', 'Diseño', 'Agile']",vegetariano
-91,Laura,Hernández,user91@example.com,pass91,,2022-01-01,2022-01-01,0,Yes,Colegio B,Director de Tecnología,+34,657526826,Calle J 182,24744,Madrid,España,Assistant,https://linkedin.com/in/user91,['Azucar'],"['Agile', 'Gestión de Proyectos', 'Salud y Bienestar', 'Softskills']",vegetariano
-92,Juan,García,user92@example.com,pass92,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Responsable de Calidad,+34,699617253,Calle A 151,28068,Zaragoza,España,Assistant,https://linkedin.com/in/user92,"['Apio', 'Pescado']","['Softskills', 'Negocios']",vegano
-93,David,Díaz,user93@example.com,pass93,,2022-01-01,2022-01-01,0,Yes,Escuela C,Asesor Pedagógico,+34,642906266,Calle A 89,34585,Sevilla,España,Assistant,https://linkedin.com/in/user93,"['Altramuz', 'Cacahuetes', 'Huevos']","['Agile', 'Negocios', 'Marketing Digital', 'Softskills', 'Formación']",omnivoro
-94,Carlos,García,user94@example.com,pass94,,2022-01-01,2022-01-01,0,Yes,Escuela C,Especialista en Marketing de E-learning,+34,616058197,Calle G 27,73054,Valencia,España,Assistant,https://linkedin.com/in/user94,['Lácteos'],"['Salud y Bienestar', 'Educación', 'Gestión de Proyectos']",vegetariano
-95,Luis,Gómez,user95@example.com,pass95,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Director de Formación,+34,631792268,Calle F 129,37245,Valencia,España,Assistant,https://linkedin.com/in/user95,[],"['Softskills', 'Formación', 'Salud y Bienestar', 'Educación', 'Emprendimiento']",vegano
-96,Marta,Sánchez,user96@example.com,pass96,,2022-01-01,2022-01-01,0,Yes,Escuela C,Consultor de E-learning,+34,671158896,Calle I 12,32416,Zaragoza,España,Assistant,https://linkedin.com/in/user96,"['Huevos', 'Sal']","['Formación', 'Negocios', 'Marketing Digital', 'Diseño']",vegetariano
-97,Maria,Díaz,user97@example.com,pass97,,2022-01-01,2022-01-01,0,Yes,Colegio B,Gestor de Comunidad,+34,617459985,Calle J 142,77368,Sevilla,España,Assistant,https://linkedin.com/in/user97,['Apio'],['Formación'],vegano
-98,Carlos,Díaz,user98@example.com,pass98,,2022-01-01,2022-01-01,0,Yes,Colegio B,Asesor Pedagógico,+34,625315410,Calle D 160,28707,Valencia,España,Assistant,https://linkedin.com/in/user98,['Mariscos'],"['Marketing Digital', 'Softskills', 'Agile', 'Tecnología', 'Formación']",vegano
-99,Carlos,Sánchez,user99@example.com,pass99,,2022-01-01,2022-01-01,0,Yes,Universidad A,Asesor Pedagógico,+34,618713560,Calle G 90,36553,Sevilla,España,Assistant,https://linkedin.com/in/user99,"['Moluscos', 'Gluten']","['Diseño', 'Gestión de Proyectos']",omnivoro
-100,Maria,López,user100@example.com,pass100,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Especialista en Evaluación,+34,676376552,Calle A 21,13045,Valencia,España,Assistant,https://linkedin.com/in/user100,['Mostaza'],"['Marketing Digital', 'Salud y Bienestar', 'Diseño']",omnivoro
-101,Ana,Sánchez,user101@example.com,pass101,,2022-01-01,2022-01-01,0,Yes,Universidad A,Especialista en Evaluación,+34,613730320,Calle C 26,19800,Valencia,España,Assistant,https://linkedin.com/in/user101,"['Azucar', 'Sulfitos', 'Moluscos']","['Educación', 'Creatividad', 'Marketing Digital', 'Gestión de Proyectos', 'Formación']",omnivoro
-102,Carlos,Martínez,user102@example.com,pass102,,2022-01-01,2022-01-01,0,Yes,Universidad A,Facilitador de Talleres,+34,685838563,Calle E 40,78612,Zaragoza,España,Assistant,https://linkedin.com/in/user102,"['Lácteos', 'Pescado', 'Altramuz']","['Negocios', 'Diseño', 'Creatividad', 'Softskills']",omnivoro
-103,Luis,Pérez,user103@example.com,pass103,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Asesor Pedagógico,+34,647882348,Calle C 16,82575,Valencia,España,Assistant,https://linkedin.com/in/user103,['Mostaza'],"['Educación', 'Salud y Bienestar', 'Tecnología', 'Diseño', 'Emprendimiento']",vegetariano
-104,Luis,López,user104@example.com,pass104,,2022-01-01,2022-01-01,0,Yes,Escuela C,Especialista en Evaluación,+34,643520410,Calle B 9,24239,Zaragoza,España,Assistant,https://linkedin.com/in/user104,"['Pescado', 'Huevos', 'Apio']","['Salud y Bienestar', 'Emprendimiento', 'Creatividad', 'Gestión de Proyectos', 'Educación']",vegano
-105,Luis,López,user105@example.com,pass105,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Asesor Pedagógico,+34,697909065,Calle A 6,96549,Valencia,España,Assistant,https://linkedin.com/in/user105,"['Apio', 'Soja', 'Altramuz']","['Tecnología', 'Formación']",vegano
-106,Marta,Gómez,user106@example.com,pass106,,2022-01-01,2022-01-01,0,Yes,Colegio B,Gestor de Proyectos,+34,622927171,Calle F 73,87210,Zaragoza,España,Assistant,https://linkedin.com/in/user106,['Lácteos'],"['Salud y Bienestar', 'Gestión de Proyectos']",omnivoro
-107,Laura,Sánchez,user107@example.com,pass107,,2022-01-01,2022-01-01,0,Yes,Colegio B,Especialista en Evaluación,+34,616120332,Calle G 149,20167,Valencia,España,Assistant,https://linkedin.com/in/user107,[],"['Agile', 'Softskills']",vegetariano
-108,Jose,Pérez,user108@example.com,pass108,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Facilitador de Talleres,+34,650181906,Calle F 94,75182,Sevilla,España,Assistant,https://linkedin.com/in/user108,"['Moluscos', 'Sal', 'Huevos']","['Creatividad', 'Formación', 'Marketing Digital']",vegano
-109,Carlos,Sánchez,user109@example.com,pass109,,2022-01-01,2022-01-01,0,Yes,Escuela C,Diseñador Instruccional,+34,659045951,Calle H 176,76869,Valencia,España,Assistant,https://linkedin.com/in/user109,['Apio'],['Agile'],omnivoro
-110,Isabel,Fernández,user110@example.com,pass110,,2022-01-01,2022-01-01,0,Yes,Universidad A,Especialista en Evaluación,+34,693439433,Calle G 177,79842,Zaragoza,España,Assistant,https://linkedin.com/in/user110,"['Pescado', 'Mostaza']","['Educación', 'Emprendimiento']",omnivoro
-111,Luis,López,user111@example.com,pass111,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Analista de Datos Educativos,+34,675264655,Calle J 148,62769,Valencia,España,Assistant,https://linkedin.com/in/user111,"['Altramuz', 'Soja', 'Sal']",['Creatividad'],vegano
-112,Jose,Pérez,user112@example.com,pass112,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Especialista en Soporte Técnico,+34,692933005,Calle I 130,13011,Barcelona,España,Assistant,https://linkedin.com/in/user112,"['Mariscos', 'Moluscos']","['Educación', 'Diseño']",vegano
-113,Ana,Gómez,user113@example.com,pass113,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Responsable de Calidad,+34,683932523,Calle G 34,88824,Barcelona,España,Assistant,https://linkedin.com/in/user113,"['Pescado', 'Sulfitos']","['Educación', 'Agile']",vegano
-114,Maria,Martínez,user114@example.com,pass114,,2022-01-01,2022-01-01,0,Yes,Colegio B,Gestor de Proyectos,+34,674801627,Calle F 132,45206,Zaragoza,España,Assistant,https://linkedin.com/in/user114,[],"['Emprendimiento', 'Agile', 'Negocios', 'Tecnología']",omnivoro
-115,Juan,López,user115@example.com,pass115,,2022-01-01,2022-01-01,0,Yes,Escuela C,Consultor de E-learning,+34,635342197,Calle B 152,30480,Sevilla,España,Assistant,https://linkedin.com/in/user115,"['Azucar', 'Altramuz', 'Moluscos']","['Educación', 'Marketing Digital']",vegetariano
-116,Marta,Gómez,user116@example.com,pass116,,2022-01-01,2022-01-01,0,Yes,Colegio B,Gestor de Comunidad,+34,632642045,Calle F 146,67833,Valencia,España,Assistant,https://linkedin.com/in/user116,"['Apio', 'Frutos secos', 'Soja']","['Salud y Bienestar', 'Emprendimiento']",vegano
-117,Laura,Pérez,user117@example.com,pass117,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Especialista en Soporte Técnico,+34,649353997,Calle J 165,29280,Valencia,España,Assistant,https://linkedin.com/in/user117,"['Sulfitos', 'Lácteos', 'Mariscos']","['Formación', 'Educación', 'Gestión de Proyectos', 'Negocios']",omnivoro
-118,Jose,García,user118@example.com,pass118,,2022-01-01,2022-01-01,0,Yes,Escuela C,Director de Formación,+34,688199441,Calle I 101,20397,Sevilla,España,Assistant,https://linkedin.com/in/user118,"['Cacahuetes', 'Pescado']","['Salud y Bienestar', 'Formación', 'Agile']",vegano
-119,David,García,user119@example.com,pass119,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Consultor de E-learning,+34,652354184,Calle G 121,71975,Zaragoza,España,Assistant,https://linkedin.com/in/user119,['Sal'],"['Softskills', 'Salud y Bienestar', 'Agile']",omnivoro
-120,Juan,Fernández,user120@example.com,pass120,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Director de Innovación,+34,619318861,Calle G 29,54582,Valencia,España,Assistant,https://linkedin.com/in/user120,"['Gluten', 'Frutos secos', 'Apio']","['Softskills', 'Tecnología']",vegetariano
-121,Carlos,García,user121@example.com,pass121,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Desarrollador de E-learning,+34,646790419,Calle I 62,10503,Sevilla,España,Assistant,https://linkedin.com/in/user121,['Soja'],"['Educación', 'Agile', 'Diseño', 'Emprendimiento']",omnivoro
-122,Marta,López,user122@example.com,pass122,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Director de Tecnología,+34,615181041,Calle I 33,42061,Zaragoza,España,Assistant,https://linkedin.com/in/user122,[],['Agile'],vegano
-123,Luis,Díaz,user123@example.com,pass123,,2022-01-01,2022-01-01,0,Yes,Universidad A,Desarrollador de E-learning,+34,606484632,Calle H 164,54332,Valencia,España,Assistant,https://linkedin.com/in/user123,"['Sulfitos', 'Mostaza']",['Tecnología'],vegetariano
-124,Luis,Sánchez,user124@example.com,pass124,,2022-01-01,2022-01-01,0,Yes,Escuela C,Coordinador de Cursos,+34,612523358,Calle B 136,91091,Zaragoza,España,Assistant,https://linkedin.com/in/user124,"['Moluscos', 'Cacahuetes', 'Mostaza']","['Educación', 'Softskills', 'Marketing Digital', 'Diseño']",vegetariano
-125,Marta,Fernández,user125@example.com,pass125,,2022-01-01,2022-01-01,0,Yes,Escuela C,Asesor Pedagógico,+34,647346377,Calle H 76,13224,Madrid,España,Assistant,https://linkedin.com/in/user125,['Azucar'],"['Gestión de Proyectos', 'Marketing Digital']",vegano
-126,Carlos,Sánchez,user126@example.com,pass126,,2022-01-01,2022-01-01,0,Yes,Colegio B,Director de Innovación,+34,634788269,Calle C 145,63513,Valencia,España,Assistant,https://linkedin.com/in/user126,"['Azucar', 'Pescado']",['Gestión de Proyectos'],vegano
-127,Marta,Díaz,user127@example.com,pass127,,2022-01-01,2022-01-01,0,Yes,Universidad A,Director de Innovación,+34,698095549,Calle J 49,31358,Zaragoza,España,Assistant,https://linkedin.com/in/user127,[],['Agile'],vegetariano
-128,Isabel,Rodríguez,user128@example.com,pass128,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Coordinador de Cursos,+34,602873207,Calle G 186,33674,Madrid,España,Assistant,https://linkedin.com/in/user128,[],"['Emprendimiento', 'Educación', 'Creatividad', 'Gestión de Proyectos', 'Salud y Bienestar']",omnivoro
-129,Luis,García,user129@example.com,pass129,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Director de Formación,+34,693807599,Calle B 4,28546,Madrid,España,Assistant,https://linkedin.com/in/user129,"['Lácteos', 'Sulfitos']","['Creatividad', 'Salud y Bienestar', 'Negocios']",vegano
-130,Laura,Martínez,user130@example.com,pass130,,2022-01-01,2022-01-01,0,Yes,Colegio B,Diseñador Instruccional,+34,632325417,Calle G 47,28565,Valencia,España,Assistant,https://linkedin.com/in/user130,"['Gluten', 'Huevos']","['Formación', 'Tecnología']",vegano
-131,Juan,Díaz,user131@example.com,pass131,,2022-01-01,2022-01-01,0,Yes,Colegio B,Consultor de E-learning,+34,622157610,Calle G 131,40030,Zaragoza,España,Assistant,https://linkedin.com/in/user131,['Apio'],"['Salud y Bienestar', 'Negocios', 'Agile', 'Softskills']",vegano
-132,Juan,Rodríguez,user132@example.com,pass132,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Desarrollador de E-learning,+34,698291656,Calle G 191,99051,Barcelona,España,Assistant,https://linkedin.com/in/user132,[],['Creatividad'],vegetariano
-133,Isabel,Sánchez,user133@example.com,pass133,,2022-01-01,2022-01-01,0,Yes,Colegio B,Especialista en Evaluación,+34,628212076,Calle C 54,89530,Valencia,España,Assistant,https://linkedin.com/in/user133,['Huevos'],"['Educación', 'Tecnología', 'Agile', 'Creatividad']",vegano
-134,Isabel,Martínez,user134@example.com,pass134,,2022-01-01,2022-01-01,0,Yes,Colegio B,Instructor / Formador,+34,682181168,Calle J 36,41266,Zaragoza,España,Assistant,https://linkedin.com/in/user134,[],"['Agile', 'Gestión de Proyectos', 'Formación', 'Marketing Digital', 'Educación']",vegano
-135,David,Hernández,user135@example.com,pass135,,2022-01-01,2022-01-01,0,Yes,Escuela C,Coordinador de Cursos,+34,603003643,Calle H 56,32247,Zaragoza,España,Assistant,https://linkedin.com/in/user135,"['Pescado', 'Gluten']","['Tecnología', 'Creatividad']",vegetariano
-136,Carlos,Martínez,user136@example.com,pass136,,2022-01-01,2022-01-01,0,Yes,Universidad A,Director de Innovación,+34,648713452,Calle E 182,55936,Madrid,España,Assistant,https://linkedin.com/in/user136,[],"['Softskills', 'Tecnología', 'Emprendimiento', 'Creatividad', 'Salud y Bienestar']",omnivoro
-137,Carlos,Díaz,user137@example.com,pass137,,2022-01-01,2022-01-01,0,Yes,Escuela C,Facilitador de Talleres,+34,655854549,Calle H 20,80731,Barcelona,España,Assistant,https://linkedin.com/in/user137,['Frutos secos'],"['Creatividad', 'Tecnología']",vegetariano
-138,David,Rodríguez,user138@example.com,pass138,,2022-01-01,2022-01-01,0,Yes,Escuela C,Gestor de Comunidad,+34,696863072,Calle I 70,45817,Zaragoza,España,Assistant,https://linkedin.com/in/user138,['Sulfitos'],"['Salud y Bienestar', 'Marketing Digital']",omnivoro
-139,Carlos,García,user139@example.com,pass139,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Gestor de Comunidad,+34,663484672,Calle G 120,11919,Barcelona,España,Assistant,https://linkedin.com/in/user139,['Pescado'],['Emprendimiento'],omnivoro
-140,David,García,user140@example.com,pass140,,2022-01-01,2022-01-01,0,Yes,Escuela C,Responsable de Calidad,+34,646365123,Calle G 184,87758,Valencia,España,Assistant,https://linkedin.com/in/user140,"['Frutos secos', 'Sulfitos', 'Lácteos']","['Creatividad', 'Tecnología', 'Educación', 'Emprendimiento', 'Gestión de Proyectos']",omnivoro
-141,David,López,user141@example.com,pass141,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Investigador en E-learning,+34,696326010,Calle B 136,52856,Valencia,España,Assistant,https://linkedin.com/in/user141,"['Mostaza', 'Cacahuetes']","['Salud y Bienestar', 'Emprendimiento']",vegetariano
-142,Laura,Fernández,user142@example.com,pass142,,2022-01-01,2022-01-01,0,Yes,Escuela C,Administrador de Plataforma,+34,647552230,Calle F 5,80807,Madrid,España,Assistant,https://linkedin.com/in/user142,"['Sal', 'Soja', 'Mariscos']",['Creatividad'],omnivoro
-143,Luis,Gómez,user143@example.com,pass143,,2022-01-01,2022-01-01,0,Yes,Colegio B,Instructor / Formador,+34,603047294,Calle I 53,72017,Zaragoza,España,Assistant,https://linkedin.com/in/user143,"['Moluscos', 'Pescado', 'Soja']","['Creatividad', 'Emprendimiento']",omnivoro
-144,David,Sánchez,user144@example.com,pass144,,2022-01-01,2022-01-01,0,Yes,Colegio B,Investigador en E-learning,+34,617158416,Calle G 2,21644,Valencia,España,Assistant,https://linkedin.com/in/user144,"['Azucar', 'Soja']","['Diseño', 'Agile', 'Negocios', 'Marketing Digital']",vegano
-145,Carlos,Rodríguez,user145@example.com,pass145,,2022-01-01,2022-01-01,0,Yes,Escuela C,Asesor Pedagógico,+34,614959643,Calle D 48,14126,Barcelona,España,Assistant,https://linkedin.com/in/user145,"['Sésamo', 'Huevos', 'Pescado']","['Agile', 'Emprendimiento']",vegano
-146,David,Martínez,user146@example.com,pass146,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Diseñador Instruccional,+34,607659613,Calle I 190,76064,Valencia,España,Assistant,https://linkedin.com/in/user146,"['Frutos secos', 'Moluscos']","['Tecnología', 'Salud y Bienestar', 'Agile']",vegetariano
-147,Laura,López,user147@example.com,pass147,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Responsable de Calidad,+34,608303778,Calle I 156,54582,Sevilla,España,Assistant,https://linkedin.com/in/user147,[],['Agile'],vegetariano
-148,Marta,Pérez,user148@example.com,pass148,,2022-01-01,2022-01-01,0,Yes,Colegio B,Director de Tecnología,+34,686449528,Calle J 87,64373,Sevilla,España,Assistant,https://linkedin.com/in/user148,"['Sésamo', 'Apio']","['Softskills', 'Tecnología', 'Marketing Digital']",vegetariano
-149,Luis,Díaz,user149@example.com,pass149,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Director de Formación,+34,650903620,Calle A 146,90374,Zaragoza,España,Assistant,https://linkedin.com/in/user149,"['Azucar', 'Mariscos', 'Huevos']","['Negocios', 'Softskills', 'Emprendimiento']",vegano
-150,Carlos,López,user150@example.com,pass150,,2022-01-01,2022-01-01,0,Yes,Escuela C,Asesor Pedagógico,+34,642051351,Calle B 50,73081,Zaragoza,España,Assistant,https://linkedin.com/in/user150,"['Soja', 'Frutos secos', 'Apio']","['Tecnología', 'Salud y Bienestar', 'Agile']",omnivoro
-151,Laura,Hernández,user151@example.com,pass151,,2022-01-01,2022-01-01,0,Yes,Colegio B,Asesor Pedagógico,+34,666889640,Calle E 143,77809,Valencia,España,Assistant,https://linkedin.com/in/user151,"['Soja', 'Sulfitos', 'Lácteos']",['Marketing Digital'],vegano
-152,Ana,López,user152@example.com,pass152,,2022-01-01,2022-01-01,0,Yes,Colegio B,Facilitador de Talleres,+34,665811946,Calle H 71,56675,Valencia,España,Assistant,https://linkedin.com/in/user152,"['Pescado', 'Huevos', 'Mostaza']","['Agile', 'Softskills']",omnivoro
-153,David,Sánchez,user153@example.com,pass153,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Asesor Pedagógico,+34,610229337,Calle C 133,46950,Valencia,España,Assistant,https://linkedin.com/in/user153,[],"['Tecnología', 'Formación', 'Softskills', 'Salud y Bienestar', 'Emprendimiento']",vegano
-154,Isabel,Pérez,user154@example.com,pass154,,2022-01-01,2022-01-01,0,Yes,Colegio B,Diseñador Instruccional,+34,651058581,Calle D 84,43762,Barcelona,España,Assistant,https://linkedin.com/in/user154,"['Azucar', 'Moluscos']","['Creatividad', 'Softskills', 'Gestión de Proyectos', 'Marketing Digital']",vegetariano
-155,Marta,Hernández,user155@example.com,pass155,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Asesor Pedagógico,+34,681890283,Calle D 100,97535,Madrid,España,Assistant,https://linkedin.com/in/user155,"['Soja', 'Sulfitos']","['Emprendimiento', 'Softskills', 'Negocios', 'Formación']",vegetariano
-156,Carlos,Gómez,user156@example.com,pass156,,2022-01-01,2022-01-01,0,Yes,Colegio B,Coordinador de Cursos,+34,693557926,Calle C 195,61665,Sevilla,España,Assistant,https://linkedin.com/in/user156,[],"['Creatividad', 'Softskills', 'Agile', 'Gestión de Proyectos', 'Marketing Digital']",vegetariano
-157,Luis,Hernández,user157@example.com,pass157,,2022-01-01,2022-01-01,0,Yes,Universidad A,Facilitador de Talleres,+34,644231104,Calle E 196,44488,Valencia,España,Assistant,https://linkedin.com/in/user157,"['Lácteos', 'Mostaza', 'Altramuz']","['Tecnología', 'Formación', 'Negocios']",vegano
-158,Carlos,Hernández,user158@example.com,pass158,,2022-01-01,2022-01-01,0,Yes,Colegio B,Coordinador de Cursos,+34,647284566,Calle I 58,59408,Barcelona,España,Assistant,https://linkedin.com/in/user158,"['Cacahuetes', 'Pescado', 'Gluten']","['Tecnología', 'Negocios', 'Gestión de Proyectos', 'Softskills']",vegetariano
-159,Marta,Pérez,user159@example.com,pass159,,2022-01-01,2022-01-01,0,Yes,Escuela C,Facilitador de Talleres,+34,680358364,Calle G 26,94611,Barcelona,España,Assistant,https://linkedin.com/in/user159,"['Apio', 'Sésamo', 'Moluscos']","['Softskills', 'Marketing Digital', 'Diseño', 'Negocios', 'Gestión de Proyectos']",vegetariano
-160,Luis,Sánchez,user160@example.com,pass160,,2022-01-01,2022-01-01,0,Yes,Universidad A,Director de Formación,+34,650204076,Calle J 21,44124,Madrid,España,Assistant,https://linkedin.com/in/user160,['Sulfitos'],"['Marketing Digital', 'Negocios', 'Emprendimiento', 'Educación', 'Diseño']",vegano
-161,Laura,López,user161@example.com,pass161,,2022-01-01,2022-01-01,0,Yes,Escuela C,Director de Formación,+34,607638484,Calle H 22,19385,Barcelona,España,Assistant,https://linkedin.com/in/user161,"['Sésamo', 'Gluten']","['Tecnología', 'Softskills', 'Agile', 'Negocios']",vegano
-162,Ana,Hernández,user162@example.com,pass162,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Instructor / Formador,+34,671804920,Calle I 54,76925,Barcelona,España,Assistant,https://linkedin.com/in/user162,['Mostaza'],['Creatividad'],vegetariano
-163,Luis,García,user163@example.com,pass163,,2022-01-01,2022-01-01,0,Yes,Universidad A,Facilitador de Talleres,+34,600005262,Calle C 200,87044,Barcelona,España,Assistant,https://linkedin.com/in/user163,"['Pescado', 'Huevos']","['Creatividad', 'Formación', 'Gestión de Proyectos', 'Marketing Digital']",vegano
-164,Ana,Pérez,user164@example.com,pass164,,2022-01-01,2022-01-01,0,Yes,Universidad A,Coordinador de Cursos,+34,665652615,Calle F 126,73231,Valencia,España,Assistant,https://linkedin.com/in/user164,['Moluscos'],['Tecnología'],omnivoro
-165,Jose,Martínez,user165@example.com,pass165,,2022-01-01,2022-01-01,0,Yes,Universidad A,Analista de Datos Educativos,+34,694156569,Calle A 70,12769,Madrid,España,Assistant,https://linkedin.com/in/user165,['Apio'],"['Diseño', 'Educación', 'Salud y Bienestar', 'Tecnología', 'Softskills']",vegetariano
-166,Isabel,Gómez,user166@example.com,pass166,,2022-01-01,2022-01-01,0,Yes,Colegio B,Director de Formación,+34,644039601,Calle A 172,33081,Zaragoza,España,Assistant,https://linkedin.com/in/user166,['Frutos secos'],['Gestión de Proyectos'],vegetariano
-167,Laura,Fernández,user167@example.com,pass167,,2022-01-01,2022-01-01,0,Yes,Colegio B,Director de Formación,+34,616335660,Calle A 144,60624,Madrid,España,Assistant,https://linkedin.com/in/user167,[],"['Diseño', 'Tecnología']",vegetariano
-168,David,Hernández,user168@example.com,pass168,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Director de Tecnología,+34,610361562,Calle A 139,91452,Valencia,España,Assistant,https://linkedin.com/in/user168,[],['Negocios'],omnivoro
-169,Jose,Rodríguez,user169@example.com,pass169,,2022-01-01,2022-01-01,0,Yes,Escuela C,Administrador de Plataforma,+34,672119423,Calle A 105,34730,Madrid,España,Assistant,https://linkedin.com/in/user169,[],"['Educación', 'Salud y Bienestar', 'Softskills', 'Emprendimiento']",omnivoro
-170,Carlos,Martínez,user170@example.com,pass170,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Instructor / Formador,+34,621881234,Calle B 195,92082,Zaragoza,España,Assistant,https://linkedin.com/in/user170,[],['Salud y Bienestar'],vegano
-171,Juan,Rodríguez,user171@example.com,pass171,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Especialista en Soporte Técnico,+34,672632093,Calle E 128,92058,Barcelona,España,Assistant,https://linkedin.com/in/user171,"['Soja', 'Mariscos']",['Creatividad'],omnivoro
-172,Marta,Hernández,user172@example.com,pass172,,2022-01-01,2022-01-01,0,Yes,Escuela C,Gestor de Comunidad,+34,698654259,Calle F 174,25452,Zaragoza,España,Assistant,https://linkedin.com/in/user172,"['Frutos secos', 'Sésamo', 'Altramuz']","['Diseño', 'Softskills', 'Gestión de Proyectos', 'Salud y Bienestar']",vegano
-173,David,Hernández,user173@example.com,pass173,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Analista de Datos Educativos,+34,609655153,Calle A 160,75532,Madrid,España,Assistant,https://linkedin.com/in/user173,['Cacahuetes'],"['Softskills', 'Salud y Bienestar', 'Emprendimiento', 'Tecnología', 'Gestión de Proyectos']",vegano
-174,Jose,Rodríguez,user174@example.com,pass174,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Especialista en Soporte Técnico,+34,671432976,Calle I 68,70808,Sevilla,España,Assistant,https://linkedin.com/in/user174,"['Huevos', 'Sésamo', 'Frutos secos']","['Negocios', 'Salud y Bienestar', 'Tecnología', 'Agile']",vegetariano
-175,Juan,García,user175@example.com,pass175,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Facilitador de Talleres,+34,661387741,Calle G 72,32203,Zaragoza,España,Assistant,https://linkedin.com/in/user175,[],"['Tecnología', 'Agile', 'Softskills']",omnivoro
-176,Carlos,Fernández,user176@example.com,pass176,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Director de Formación,+34,638137642,Calle G 77,58835,Barcelona,España,Assistant,https://linkedin.com/in/user176,['Frutos secos'],['Negocios'],omnivoro
-177,Jose,López,user177@example.com,pass177,,2022-01-01,2022-01-01,0,Yes,Escuela C,Responsable de Calidad,+34,697859344,Calle G 3,54652,Barcelona,España,Assistant,https://linkedin.com/in/user177,"['Apio', 'Gluten']","['Tecnología', 'Marketing Digital', 'Salud y Bienestar', 'Negocios']",vegano
-178,Juan,Fernández,user178@example.com,pass178,,2022-01-01,2022-01-01,0,Yes,Colegio B,Director de Formación,+34,626845019,Calle I 75,42796,Valencia,España,Assistant,https://linkedin.com/in/user178,[],"['Agile', 'Diseño']",vegetariano
-179,Marta,Gómez,user179@example.com,pass179,,2022-01-01,2022-01-01,0,Yes,Colegio B,Responsable de Calidad,+34,650926657,Calle D 59,82693,Sevilla,España,Assistant,https://linkedin.com/in/user179,"['Soja', 'Sésamo']",['Gestión de Proyectos'],omnivoro
-180,Carlos,Pérez,user180@example.com,pass180,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Especialista en Marketing de E-learning,+34,640151787,Calle B 57,69053,Zaragoza,España,Assistant,https://linkedin.com/in/user180,"['Lácteos', 'Altramuz']","['Diseño', 'Agile', 'Salud y Bienestar', 'Emprendimiento']",omnivoro
-181,Isabel,López,user181@example.com,pass181,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Analista de Datos Educativos,+1,695659343,Calle C 168,15686,París,Francia,Assistant,https://linkedin.com/in/user181,"['Sésamo', 'Mostaza']","['Softskills', 'Agile', 'Educación', 'Tecnología']",omnivoro
-182,David,Hernández,user182@example.com,pass182,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Coordinador de Cursos,+1,662063210,Calle F 132,46616,Colonia,Alemania,Assistant,https://linkedin.com/in/user182,"['Moluscos', 'Lácteos']",['Agile'],vegano
-183,Luis,Fernández,user183@example.com,pass183,,2022-01-01,2022-01-01,0,Yes,Escuela C,Consultor de E-learning,+1,613749979,Calle I 25,83509,Sapporo,Japón,Assistant,https://linkedin.com/in/user183,['Apio'],"['Educación', 'Salud y Bienestar', 'Gestión de Proyectos']",vegetariano
-184,Juan,Martínez,user184@example.com,pass184,,2022-01-01,2022-01-01,0,Yes,Universidad A,Director de Innovación,+1,635465401,Calle J 143,21353,Edimburgo,Reino Unido,Assistant,https://linkedin.com/in/user184,[],"['Formación', 'Salud y Bienestar', 'Emprendimiento']",omnivoro
-185,David,Gómez,user185@example.com,pass185,,2022-01-01,2022-01-01,0,Yes,Colegio B,Director de Innovación,+1,696651566,Calle A 154,57771,Melbourne,Australia,Assistant,https://linkedin.com/in/user185,"['Sésamo', 'Soja']","['Agile', 'Salud y Bienestar', 'Educación']",vegano
-186,Jose,Pérez,user186@example.com,pass186,,2022-01-01,2022-01-01,0,Yes,Escuela C,Gestor de Proyectos,+1,606400876,Calle B 14,77393,Lyon,Francia,Assistant,https://linkedin.com/in/user186,"['Sésamo', 'Sulfitos', 'Sal']","['Formación', 'Negocios']",omnivoro
-187,Isabel,Rodríguez,user187@example.com,pass187,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Asesor Pedagógico,+1,659108614,Calle D 1,47077,Fráncfort,Alemania,Assistant,https://linkedin.com/in/user187,"['Sulfitos', 'Frutos secos', 'Huevos']","['Formación', 'Marketing Digital']",omnivoro
-188,David,Pérez,user188@example.com,pass188,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Especialista en Marketing de E-learning,+1,641590312,Calle J 125,80378,Múnich,Alemania,Assistant,https://linkedin.com/in/user188,"['Huevos', 'Mariscos', 'Azucar']","['Negocios', 'Creatividad', 'Agile', 'Gestión de Proyectos']",vegano
-189,Isabel,Rodríguez,user189@example.com,pass189,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Facilitador de Talleres,+1,642095973,Calle I 104,20575,Brasilia,Brasil,Assistant,https://linkedin.com/in/user189,"['Altramuz', 'Gluten', 'Mariscos']","['Agile', 'Gestión de Proyectos', 'Formación']",vegetariano
-190,David,López,user190@example.com,pass190,,2022-01-01,2022-01-01,0,Yes,Colegio B,Desarrollador de Contenidos,+1,601777489,Calle E 28,55010,Tokio,Japón,Assistant,https://linkedin.com/in/user190,['Mariscos'],"['Negocios', 'Tecnología', 'Softskills', 'Agile']",omnivoro
-191,Maria,García,user191@example.com,pass191,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Gestor de Comunidad,+1,643394753,Calle A 107,35969,Marsella,Francia,Assistant,https://linkedin.com/in/user191,[],['Educación'],omnivoro
-192,Luis,Sánchez,user192@example.com,pass192,,2022-01-01,2022-01-01,0,Yes,Universidad A,Analista de Datos Educativos,+1,613430921,Calle D 147,53399,Milán,Italia,Assistant,https://linkedin.com/in/user192,[],['Softskills'],vegetariano
-193,Maria,García,user193@example.com,pass193,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Director de Formación,+1,632617410,Calle I 147,54836,Manchester,Reino Unido,Assistant,https://linkedin.com/in/user193,[],['Emprendimiento'],vegetariano
-194,Marta,Sánchez,user194@example.com,pass194,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Asesor Pedagógico,+1,618729028,Calle E 158,51647,Tokio,Japón,Assistant,https://linkedin.com/in/user194,[],['Formación'],omnivoro
-195,Ana,Díaz,user195@example.com,pass195,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Diseñador Instruccional,+1,683257859,Calle I 192,90374,Belo Horizonte,Brasil,Assistant,https://linkedin.com/in/user195,[],"['Salud y Bienestar', 'Formación', 'Agile', 'Marketing Digital', 'Tecnología']",vegetariano
-196,Maria,Sánchez,user196@example.com,pass196,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Especialista en Marketing de E-learning,+1,650518900,Calle B 63,65232,Colonia,Alemania,Assistant,https://linkedin.com/in/user196,[],"['Salud y Bienestar', 'Educación']",vegano
-197,Ana,Sánchez,user197@example.com,pass197,,2022-01-01,2022-01-01,0,Yes,Colegio B,Desarrollador de Contenidos,+1,699826941,Calle C 173,96805,Chongqing,China,Assistant,https://linkedin.com/in/user197,"['Mostaza', 'Gluten', 'Frutos secos']","['Creatividad', 'Formación', 'Educación', 'Diseño', 'Tecnología']",vegano
-198,Carlos,Pérez,user198@example.com,pass198,,2022-01-01,2022-01-01,0,Yes,Escuela C,Asesor Pedagógico,+1,621920429,Calle C 93,67944,Brasilia,Brasil,Assistant,https://linkedin.com/in/user198,[],"['Tecnología', 'Softskills']",vegetariano
-199,Luis,Hernández,user199@example.com,pass199,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Director de Formación,+1,606516858,Calle C 154,26229,Roma,Italia,Assistant,https://linkedin.com/in/user199,"['Frutos secos', 'Sulfitos', 'Gluten']","['Salud y Bienestar', 'Tecnología', 'Formación']",omnivoro
-200,Isabel,Fernández,user200@example.com,pass200,,2022-01-01,2022-01-01,0,Yes,Colegio B,Desarrollador de Contenidos,+1,649926425,Calle J 26,76007,Chicago,Estados Unidos,Assistant,https://linkedin.com/in/user200,['Sulfitos'],"['Creatividad', 'Salud y Bienestar']",omnivoro
-201,David,Fernández,user201@example.com,pass201,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Desarrollador de Contenidos,+1,609705758,Calle H 118,93043,Osaka,Japón,Assistant,https://linkedin.com/in/user201,"['Altramuz', 'Gluten', 'Soja']","['Formación', 'Negocios', 'Marketing Digital']",omnivoro
-202,Carlos,Díaz,user202@example.com,pass202,,2022-01-01,2022-01-01,0,Yes,Colegio B,Investigador en E-learning,+1,695318709,Calle H 184,64968,Palermo,Italia,Assistant,https://linkedin.com/in/user202,['Cacahuetes'],['Salud y Bienestar'],vegetariano
-203,David,Rodríguez,user203@example.com,pass203,,2022-01-01,2022-01-01,0,Yes,Escuela C,Facilitador de Talleres,+1,682225451,Calle H 99,26409,Tokio,Japón,Assistant,https://linkedin.com/in/user203,[],"['Marketing Digital', 'Salud y Bienestar', 'Diseño']",vegetariano
-204,Laura,Rodríguez,user204@example.com,pass204,,2022-01-01,2022-01-01,0,Yes,Universidad A,Analista de Datos Educativos,+1,675149039,Calle G 172,35071,Shanghái,China,Assistant,https://linkedin.com/in/user204,"['Moluscos', 'Pescado', 'Azucar']","['Diseño', 'Softskills']",vegano
-205,Juan,Rodríguez,user205@example.com,pass205,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Investigador en E-learning,+1,647142228,Calle H 133,71277,Los Angeles,Estados Unidos,Assistant,https://linkedin.com/in/user205,['Cacahuetes'],"['Softskills', 'Formación', 'Educación', 'Creatividad', 'Tecnología']",omnivoro
-206,David,Martínez,user206@example.com,pass206,,2022-01-01,2022-01-01,0,Yes,Universidad A,Diseñador Instruccional,+34,644553999,Calle C 78,34039,Sevilla,España,Assistant,https://linkedin.com/in/user206,"['Pescado', 'Frutos secos', 'Azucar']","['Gestión de Proyectos', 'Formación', 'Tecnología', 'Marketing Digital', 'Educación']",vegano
-207,Carlos,Sánchez,user207@example.com,pass207,,2022-01-01,2022-01-01,0,Yes,Universidad A,Diseñador Instruccional,+1,646047465,Calle F 193,63198,Osaka,Japón,Assistant,https://linkedin.com/in/user207,['Azucar'],"['Creatividad', 'Formación', 'Marketing Digital']",omnivoro
-208,Isabel,García,user208@example.com,pass208,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Coordinador de Cursos,+1,684032636,Calle H 145,98783,Chongqing,China,Assistant,https://linkedin.com/in/user208,"['Pescado', 'Sésamo']",['Formación'],vegano
-209,Carlos,Sánchez,user209@example.com,pass209,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Consultor de E-learning,+1,616497320,Calle D 185,99753,Londres,Reino Unido,Assistant,https://linkedin.com/in/user209,"['Sulfitos', 'Sésamo']","['Educación', 'Softskills']",omnivoro
-210,Ana,Pérez,user210@example.com,pass210,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Facilitador de Talleres,+1,672996967,Calle B 179,28709,Lyon,Francia,Assistant,https://linkedin.com/in/user210,['Sulfitos'],"['Softskills', 'Agile', 'Tecnología', 'Diseño', 'Gestión de Proyectos']",vegetariano
-211,Laura,Sánchez,user211@example.com,pass211,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Consultor de E-learning,+1,623174900,Calle G 97,17817,Manchester,Reino Unido,Assistant,https://linkedin.com/in/user211,"['Gluten', 'Lácteos', 'Cacahuetes']","['Softskills', 'Tecnología', 'Emprendimiento']",vegetariano
-212,Carlos,Pérez,user212@example.com,pass212,,2022-01-01,2022-01-01,0,Yes,Colegio B,Desarrollador de Contenidos,+1,631940214,Calle D 7,45112,Birmingham,Reino Unido,Assistant,https://linkedin.com/in/user212,"['Frutos secos', 'Gluten']","['Negocios', 'Marketing Digital']",omnivoro
-213,Luis,Fernández,user213@example.com,pass213,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Diseñador Instruccional,+1,653846798,Calle A 112,53652,Londres,Reino Unido,Assistant,https://linkedin.com/in/user213,"['Huevos', 'Apio', 'Pescado']","['Creatividad', 'Agile']",vegano
-214,Maria,Fernández,user214@example.com,pass214,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Administrador de Plataforma,+1,641663443,Calle I 52,16910,Shenzhen,China,Assistant,https://linkedin.com/in/user214,"['Frutos secos', 'Huevos', 'Moluscos']","['Emprendimiento', 'Marketing Digital']",vegano
-215,David,García,user215@example.com,pass215,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Especialista en Evaluación,+1,611825452,Calle I 51,42769,Shanghái,China,Assistant,https://linkedin.com/in/user215,"['Lácteos', 'Sésamo']","['Agile', 'Salud y Bienestar', 'Diseño', 'Educación', 'Gestión de Proyectos']",vegano
-216,Laura,Martínez,user216@example.com,pass216,,2022-01-01,2022-01-01,0,Yes,Escuela C,Desarrollador de Contenidos,+1,607879732,Calle A 200,27384,Niza,Francia,Assistant,https://linkedin.com/in/user216,['Soja'],"['Marketing Digital', 'Diseño']",vegetariano
-217,Ana,Gómez,user217@example.com,pass217,,2022-01-01,2022-01-01,0,Yes,Universidad A,Consultor de E-learning,+1,659142418,Calle J 117,49804,París,Francia,Assistant,https://linkedin.com/in/user217,"['Soja', 'Moluscos', 'Sulfitos']","['Marketing Digital', 'Educación']",vegano
-218,Marta,García,user218@example.com,pass218,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Coordinador de Cursos,+34,648233298,Calle H 170,16920,Zaragoza,España,Assistant,https://linkedin.com/in/user218,"['Cacahuetes', 'Altramuz', 'Sal']","['Softskills', 'Educación', 'Marketing Digital', 'Diseño']",vegetariano
-219,Jose,Hernández,user219@example.com,pass219,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Facilitador de Talleres,+1,648771753,Calle A 85,94250,Birmingham,Reino Unido,Assistant,https://linkedin.com/in/user219,['Apio'],"['Creatividad', 'Negocios', 'Softskills']",vegetariano
-220,Juan,Gómez,user220@example.com,pass220,,2022-01-01,2022-01-01,0,Yes,Universidad A,Responsable de Calidad,+1,664532142,Calle G 24,72488,Cantón,China,Assistant,https://linkedin.com/in/user220,"['Gluten', 'Soja', 'Altramuz']",['Negocios'],vegano
-221,Carlos,Gómez,user221@example.com,pass221,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Especialista en Marketing de E-learning,+1,648738365,Calle B 138,72350,París,Francia,Assistant,https://linkedin.com/in/user221,[],"['Tecnología', 'Formación', 'Marketing Digital', 'Educación']",vegano
-222,Isabel,Pérez,user222@example.com,pass222,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Director de Tecnología,+1,685915497,Calle E 27,95398,Adelaida,Australia,Assistant,https://linkedin.com/in/user222,"['Soja', 'Sal', 'Azucar']","['Educación', 'Gestión de Proyectos', 'Marketing Digital', 'Tecnología']",omnivoro
-223,Maria,Sánchez,user223@example.com,pass223,,2022-01-01,2022-01-01,0,Yes,Escuela C,Director de Tecnología,+1,614267573,Calle C 49,59084,Birmingham,Reino Unido,Assistant,https://linkedin.com/in/user223,"['Huevos', 'Cacahuetes']","['Emprendimiento', 'Formación', 'Marketing Digital', 'Agile', 'Diseño']",vegano
-224,Isabel,López,user224@example.com,pass224,,2022-01-01,2022-01-01,0,Yes,Escuela C,Responsable de Calidad,+1,620035949,Calle F 104,75679,Nápoles,Italia,Assistant,https://linkedin.com/in/user224,['Soja'],"['Negocios', 'Creatividad', 'Tecnología', 'Diseño']",omnivoro
-225,Maria,García,user225@example.com,pass225,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Analista de Datos Educativos,+1,612142655,Calle J 135,50250,Cantón,China,Assistant,https://linkedin.com/in/user225,['Huevos'],"['Creatividad', 'Educación', 'Formación']",vegetariano
-226,Carlos,García,user226@example.com,pass226,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Gestor de Comunidad,+1,634361283,Calle D 81,86675,Brasilia,Brasil,Assistant,https://linkedin.com/in/user226,['Sal'],"['Salud y Bienestar', 'Creatividad']",vegano
-227,Ana,García,user227@example.com,pass227,,2022-01-01,2022-01-01,0,Yes,Universidad A,Diseñador Instruccional,+1,693236446,Calle B 184,95794,Hamburgo,Alemania,Assistant,https://linkedin.com/in/user227,"['Azucar', 'Pescado']","['Creatividad', 'Formación']",vegetariano
-228,Jose,Pérez,user228@example.com,pass228,,2022-01-01,2022-01-01,0,Yes,Colegio B,Coordinador de Cursos,+1,629184480,Calle F 163,82942,Río de Janeiro,Brasil,Assistant,https://linkedin.com/in/user228,['Azucar'],"['Agile', 'Marketing Digital']",omnivoro
-229,Carlos,Martínez,user229@example.com,pass229,,2022-01-01,2022-01-01,0,Yes,Colegio B,Especialista en Soporte Técnico,+1,698004502,Calle G 91,61272,Toulouse,Francia,Assistant,https://linkedin.com/in/user229,[],['Formación'],vegetariano
-230,Luis,Sánchez,user230@example.com,pass230,,2022-01-01,2022-01-01,0,Yes,Universidad A,Especialista en Soporte Técnico,+1,625235217,Calle B 140,79060,Nagoya,Japón,Assistant,https://linkedin.com/in/user230,"['Apio', 'Altramuz']",['Negocios'],vegano
-231,Carlos,Sánchez,user231@example.com,pass231,,2022-01-01,2022-01-01,0,Yes,Escuela C,Desarrollador de E-learning,+1,671151740,Calle D 7,66131,Tokio,Japón,Assistant,https://linkedin.com/in/user231,"['Cacahuetes', 'Mostaza']","['Emprendimiento', 'Educación', 'Agile']",omnivoro
-232,Isabel,Pérez,user232@example.com,pass232,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Director de Tecnología,+1,660857627,Calle H 57,16866,Melbourne,Australia,Assistant,https://linkedin.com/in/user232,[],"['Marketing Digital', 'Creatividad']",vegetariano
-233,Ana,Díaz,user233@example.com,pass233,,2022-01-01,2022-01-01,0,Yes,Escuela C,Director de Innovación,+1,695952365,Calle H 14,67414,Yokohama,Japón,Assistant,https://linkedin.com/in/user233,"['Sulfitos', 'Frutos secos', 'Pescado']","['Diseño', 'Marketing Digital', 'Educación']",vegetariano
-234,Luis,Pérez,user234@example.com,pass234,,2022-01-01,2022-01-01,0,Yes,Colegio B,Asesor Pedagógico,+34,607986528,Calle I 95,14487,Zaragoza,España,Assistant,https://linkedin.com/in/user234,['Huevos'],"['Formación', 'Agile']",omnivoro
-235,Maria,Fernández,user235@example.com,pass235,,2022-01-01,2022-01-01,0,Yes,Escuela C,Director de Tecnología,+1,602276179,Calle H 40,48903,Pekín,China,Assistant,https://linkedin.com/in/user235,['Azucar'],"['Emprendimiento', 'Salud y Bienestar', 'Tecnología', 'Creatividad']",vegano
-236,Maria,Pérez,user236@example.com,pass236,,2022-01-01,2022-01-01,0,Yes,Colegio B,Consultor de E-learning,+1,685735606,Calle G 45,16867,Perth,Australia,Assistant,https://linkedin.com/in/user236,['Pescado'],"['Softskills', 'Creatividad', 'Agile']",vegetariano
-237,David,Rodríguez,user237@example.com,pass237,,2022-01-01,2022-01-01,0,Yes,Colegio B,Director de Formación,+1,683451322,Calle C 30,81016,Roma,Italia,Assistant,https://linkedin.com/in/user237,[],"['Negocios', 'Emprendimiento']",vegetariano
-238,Isabel,Fernández,user238@example.com,pass238,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Coordinador de Cursos,+34,632823205,Calle B 46,24014,Sevilla,España,Assistant,https://linkedin.com/in/user238,['Cacahuetes'],"['Tecnología', 'Gestión de Proyectos', 'Agile', 'Emprendimiento', 'Educación']",omnivoro
-239,Maria,García,user239@example.com,pass239,,2022-01-01,2022-01-01,0,Yes,Colegio B,Coordinador de Cursos,+1,613287825,Calle I 79,97156,Perth,Australia,Assistant,https://linkedin.com/in/user239,"['Cacahuetes', 'Altramuz']","['Tecnología', 'Salud y Bienestar', 'Emprendimiento', 'Diseño', 'Gestión de Proyectos']",vegano
-240,David,Hernández,user240@example.com,pass240,,2022-01-01,2022-01-01,0,Yes,Escuela C,Administrador de Plataforma,+1,620721191,Calle F 185,18259,Pekín,China,Assistant,https://linkedin.com/in/user240,[],"['Softskills', 'Agile', 'Salud y Bienestar', 'Formación', 'Gestión de Proyectos']",vegetariano
-241,Jose,Martínez,user241@example.com,pass241,,2022-01-01,2022-01-01,0,Yes,Universidad A,Desarrollador de Contenidos,+1,683554164,Calle G 196,72716,Nagoya,Japón,Assistant,https://linkedin.com/in/user241,"['Huevos', 'Mariscos', 'Gluten']","['Gestión de Proyectos', 'Diseño', 'Salud y Bienestar', 'Educación', 'Formación']",vegano
-242,Laura,García,user242@example.com,pass242,,2022-01-01,2022-01-01,0,Yes,Colegio B,Coordinador de Cursos,+1,610032359,Calle F 44,97590,Múnich,Alemania,Assistant,https://linkedin.com/in/user242,"['Altramuz', 'Moluscos', 'Mariscos']","['Negocios', 'Diseño', 'Formación']",vegetariano
-243,Juan,García,user243@example.com,pass243,,2022-01-01,2022-01-01,0,Yes,Escuela C,Instructor / Formador,+1,699538838,Calle B 198,86848,Roma,Italia,Assistant,https://linkedin.com/in/user243,"['Cacahuetes', 'Gluten', 'Pescado']","['Diseño', 'Salud y Bienestar', 'Formación', 'Creatividad', 'Agile']",vegetariano
-244,David,Rodríguez,user244@example.com,pass244,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Director de Tecnología,+1,632876050,Calle I 125,35526,Melbourne,Australia,Assistant,https://linkedin.com/in/user244,[],"['Softskills', 'Diseño', 'Educación', 'Agile']",omnivoro
-245,Juan,García,user245@example.com,pass245,,2022-01-01,2022-01-01,0,Yes,Escuela C,Especialista en Evaluación,+1,614265850,Calle A 27,95059,Colonia,Alemania,Assistant,https://linkedin.com/in/user245,[],"['Marketing Digital', 'Salud y Bienestar', 'Diseño', 'Tecnología', 'Formación']",vegano
-246,Isabel,Díaz,user246@example.com,pass246,,2022-01-01,2022-01-01,0,Yes,Escuela C,Consultor de E-learning,+1,690172047,Calle E 35,49873,Milán,Italia,Assistant,https://linkedin.com/in/user246,"['Sal', 'Frutos secos']","['Educación', 'Formación', 'Marketing Digital', 'Agile']",vegetariano
-247,Ana,Díaz,user247@example.com,pass247,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Especialista en Marketing de E-learning,+1,634980518,Calle D 8,99269,Liverpool,Reino Unido,Assistant,https://linkedin.com/in/user247,[],"['Diseño', 'Agile', 'Creatividad']",vegano
-248,Marta,Fernández,user248@example.com,pass248,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Responsable de Calidad,+1,685602938,Calle F 55,27198,Roma,Italia,Assistant,https://linkedin.com/in/user248,['Sal'],"['Softskills', 'Negocios', 'Marketing Digital', 'Agile']",vegetariano
-249,Carlos,Martínez,user249@example.com,pass249,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Diseñador Instruccional,+1,601364210,Calle F 118,51017,Perth,Australia,Assistant,https://linkedin.com/in/user249,['Moluscos'],"['Emprendimiento', 'Salud y Bienestar', 'Creatividad']",vegano
-250,Ana,Gómez,user250@example.com,pass250,,2022-01-01,2022-01-01,0,Yes,Colegio B,Facilitador de Talleres,+1,659087809,Calle H 84,31214,Yokohama,Japón,Assistant,https://linkedin.com/in/user250,"['Cacahuetes', 'Azucar', 'Moluscos']","['Creatividad', 'Educación', 'Negocios', 'Marketing Digital']",omnivoro
-251,Maria,Fernández,user251@example.com,pass251,,2022-01-01,2022-01-01,0,Yes,Colegio B,Especialista en Soporte Técnico,+1,608071443,Calle I 8,70712,Sídney,Australia,Assistant,https://linkedin.com/in/user251,[],"['Marketing Digital', 'Agile']",vegetariano
-252,David,López,user252@example.com,pass252,,2022-01-01,2022-01-01,0,Yes,Escuela C,Analista de Datos Educativos,+1,608489078,Calle I 191,59328,Houston,Estados Unidos,Assistant,https://linkedin.com/in/user252,"['Altramuz', 'Soja']",['Educación'],omnivoro
-253,Laura,Rodríguez,user253@example.com,pass253,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Consultor de E-learning,+1,692023524,Calle D 7,27314,Roma,Italia,Assistant,https://linkedin.com/in/user253,[],['Emprendimiento'],omnivoro
-254,Carlos,Sánchez,user254@example.com,pass254,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Asesor Pedagógico,+1,669384493,Calle J 119,28374,Múnich,Alemania,Assistant,https://linkedin.com/in/user254,[],"['Educación', 'Negocios', 'Tecnología', 'Agile']",vegetariano
-255,Isabel,Díaz,user255@example.com,pass255,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Especialista en Evaluación,+1,643406036,Calle F 2,88215,Río de Janeiro,Brasil,Assistant,https://linkedin.com/in/user255,['Frutos secos'],"['Softskills', 'Emprendimiento', 'Gestión de Proyectos']",vegano
-256,Luis,López,user256@example.com,pass256,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Asesor Pedagógico,+1,651057188,Calle F 136,23959,New York,Estados Unidos,Assistant,https://linkedin.com/in/user256,[],"['Gestión de Proyectos', 'Salud y Bienestar', 'Tecnología', 'Softskills']",vegetariano
-257,Ana,Díaz,user257@example.com,pass257,,2022-01-01,2022-01-01,0,Yes,Colegio B,Investigador en E-learning,+34,625867824,Calle B 85,22182,Zaragoza,España,Assistant,https://linkedin.com/in/user257,"['Azucar', 'Altramuz', 'Apio']","['Formación', 'Salud y Bienestar', 'Creatividad', 'Negocios', 'Gestión de Proyectos']",vegano
-258,Juan,Hernández,user258@example.com,pass258,,2022-01-01,2022-01-01,0,Yes,Escuela C,Responsable de Calidad,+1,629131175,Calle H 197,37302,Osaka,Japón,Assistant,https://linkedin.com/in/user258,"['Sésamo', 'Sal']","['Salud y Bienestar', 'Gestión de Proyectos']",omnivoro
-259,Laura,Martínez,user259@example.com,pass259,,2022-01-01,2022-01-01,0,Yes,Colegio B,Especialista en Evaluación,+1,610852326,Calle G 179,46212,Osaka,Japón,Assistant,https://linkedin.com/in/user259,"['Apio', 'Huevos', 'Pescado']","['Formación', 'Tecnología', 'Emprendimiento', 'Educación', 'Creatividad']",omnivoro
-260,Marta,Díaz,user260@example.com,pass260,,2022-01-01,2022-01-01,0,Yes,Universidad A,Analista de Datos Educativos,+1,625081186,Calle I 75,56235,Marsella,Francia,Assistant,https://linkedin.com/in/user260,"['Sulfitos', 'Gluten']","['Emprendimiento', 'Educación', 'Formación', 'Negocios', 'Agile']",omnivoro
-261,David,Pérez,user261@example.com,pass261,,2022-01-01,2022-01-01,0,Yes,Universidad A,Coordinador de Cursos,+1,636733969,Calle J 84,67563,Edimburgo,Reino Unido,Assistant,https://linkedin.com/in/user261,[],"['Softskills', 'Salud y Bienestar', 'Tecnología', 'Emprendimiento', 'Marketing Digital']",vegetariano
-262,Jose,Sánchez,user262@example.com,pass262,,2022-01-01,2022-01-01,0,Yes,Emprendedor E-learning,Director de Tecnología,+1,644054374,Calle J 102,38619,Yokohama,Japón,Assistant,https://linkedin.com/in/user262,[],"['Negocios', 'Emprendimiento']",vegano
-263,Jose,Díaz,user263@example.com,pass263,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Desarrollador de E-learning,+1,647412703,Calle B 4,41747,Salvador,Brasil,Assistant,https://linkedin.com/in/user263,[],"['Marketing Digital', 'Salud y Bienestar']",vegano
-264,Marta,García,user264@example.com,pass264,,2022-01-01,2022-01-01,0,Yes,Escuela C,Director de Innovación,+1,666402335,Calle D 129,92908,Roma,Italia,Assistant,https://linkedin.com/in/user264,"['Apio', 'Huevos', 'Pescado']","['Diseño', 'Tecnología', 'Educación', 'Salud y Bienestar', 'Negocios']",omnivoro
-265,Jose,Hernández,user265@example.com,pass265,,2022-01-01,2022-01-01,0,Yes,Creadores de Contenido,Especialista en Soporte Técnico,+34,615559005,Calle I 106,10405,Valencia,España,Assistant,https://linkedin.com/in/user265,[],"['Softskills', 'Marketing Digital', 'Diseño']",vegano
-266,Marta,Díaz,user266@example.com,pass266,,2022-01-01,2022-01-01,0,Yes,MLOps,Asesor Pedagógico,+1,655576796,Calle C 129,49995,Berlín,Alemania,Partner,https://linkedin.com/in/user266,[],"['Gestión de Proyectos', 'Agile', 'Formación']",vegano
-267,Laura,Martínez,user267@example.com,pass267,,2022-01-01,2022-01-01,0,Yes,Supplier B,Responsable de Calidad,+1,672106348,Calle A 200,16227,Shanghái,China,Partner,https://linkedin.com/in/user267,['Sulfitos'],"['Tecnología', 'Gestión de Proyectos', 'Negocios', 'Creatividad', 'Softskills']",omnivoro
-268,Marta,Díaz,user268@example.com,pass268,,2022-01-01,2022-01-01,0,Yes,MLOps,Administrador de Plataforma,+1,603029783,Calle C 117,52226,Adelaida,Australia,Partner,https://linkedin.com/in/user268,['Huevos'],['Creatividad'],omnivoro
-269,David,Pérez,user269@example.com,pass269,,2022-01-01,2022-01-01,0,Yes,Supplier B,Administrador de Plataforma,+1,619860121,Calle D 33,81380,Palermo,Italia,Partner,https://linkedin.com/in/user269,"['Pescado', 'Sal']","['Educación', 'Emprendimiento']",omnivoro
-270,Maria,Sánchez,user270@example.com,pass270,,2022-01-01,2022-01-01,0,Yes,ZOOM,Investigador en E-learning,+1,644964414,Calle F 77,41813,São Paulo,Brasil,Partner,https://linkedin.com/in/user270,[],"['Educación', 'Emprendimiento', 'Creatividad']",vegetariano
-271,Ana,Rodríguez,user271@example.com,pass271,,2022-01-01,2022-01-01,0,Yes,MLOps,Investigador en E-learning,+1,672469378,Calle D 143,74342,Houston,Estados Unidos,Partner,https://linkedin.com/in/user271,"['Cacahuetes', 'Pescado', 'Gluten']","['Tecnología', 'Salud y Bienestar', 'Creatividad', 'Gestión de Proyectos', 'Educación']",vegano
-272,Carlos,Sánchez,user272@example.com,pass272,,2022-01-01,2022-01-01,0,Yes,MLOps,Diseñador Instruccional,+34,692807027,Calle F 163,81838,Zaragoza,España,Partner,https://linkedin.com/in/user272,"['Apio', 'Sal']",['Diseño'],vegetariano
-273,Ana,Gómez,user273@example.com,pass273,,2022-01-01,2022-01-01,0,Yes,Supplier A,Desarrollador de E-learning,+1,612138145,Calle C 138,39275,Palermo,Italia,Partner,https://linkedin.com/in/user273,['Apio'],"['Formación', 'Agile', 'Salud y Bienestar']",vegetariano
-274,Isabel,Rodríguez,user274@example.com,pass274,,2022-01-01,2022-01-01,0,Yes,ZOOM,Especialista en Marketing de E-learning,+1,661185552,Calle H 21,51161,Cantón,China,Partner,https://linkedin.com/in/user274,['Frutos secos'],"['Agile', 'Salud y Bienestar', 'Educación', 'Diseño']",omnivoro
-275,Marta,Rodríguez,user275@example.com,pass275,,2022-01-01,2022-01-01,0,Yes,Supplier A,Consultor de E-learning,+1,654158066,Calle E 140,86478,Shanghái,China,Partner,https://linkedin.com/in/user275,[],"['Negocios', 'Educación', 'Creatividad']",vegano
-276,Marta,Díaz,user276@example.com,pass276,,2022-01-01,2022-01-01,0,Yes,Supplier A,Diseñador Instruccional,+34,607977656,Calle J 181,86092,Valencia,España,Partner,https://linkedin.com/in/user276,[],"['Negocios', 'Educación', 'Agile', 'Gestión de Proyectos', 'Emprendimiento']",omnivoro
-277,Ana,García,user277@example.com,pass277,,2022-01-01,2022-01-01,0,Yes,Supplier A,Analista de Datos Educativos,+1,648418794,Calle D 106,81106,Palermo,Italia,Partner,https://linkedin.com/in/user277,[],"['Diseño', 'Creatividad', 'Gestión de Proyectos', 'Emprendimiento']",vegetariano
-278,David,Fernández,user278@example.com,pass278,,2022-01-01,2022-01-01,0,Yes,Supplier B,Asesor Pedagógico,+1,686347112,Calle C 123,11562,Melbourne,Australia,Partner,https://linkedin.com/in/user278,"['Mariscos', 'Soja', 'Mostaza']","['Diseño', 'Creatividad', 'Marketing Digital', 'Agile', 'Negocios']",vegetariano
-279,Maria,Díaz,user279@example.com,pass279,,2022-01-01,2022-01-01,0,Yes,Supplier A,Facilitador de Talleres,+1,612615027,Calle G 50,90025,Liverpool,Reino Unido,Partner,https://linkedin.com/in/user279,[],"['Marketing Digital', 'Negocios', 'Salud y Bienestar', 'Tecnología', 'Diseño']",vegano
-280,David,Pérez,user280@example.com,pass280,,2022-01-01,2022-01-01,0,Yes,ZOOM,Gestor de Comunidad,+1,600949511,Calle F 172,68157,Fráncfort,Alemania,Partner,https://linkedin.com/in/user280,[],['Agile'],omnivoro
-281,Marta,Hernández,user281@example.com,pass281,,2022-01-01,2022-01-01,0,Yes,MLOps,Director de Formación,+1,692478788,Calle G 102,88945,New York,Estados Unidos,Partner,https://linkedin.com/in/user281,"['Apio', 'Soja']",['Diseño'],vegano
-282,David,Pérez,user282@example.com,pass282,,2022-01-01,2022-01-01,0,Yes,MLOps,Diseñador Instruccional,+1,615769339,Calle I 26,25010,Sapporo,Japón,Partner,https://linkedin.com/in/user282,['Cacahuetes'],"['Marketing Digital', 'Softskills', 'Gestión de Proyectos', 'Agile', 'Negocios']",vegetariano
-283,Luis,Pérez,user283@example.com,pass283,,2022-01-01,2022-01-01,0,Yes,MLOps,Desarrollador de Contenidos,+1,622042347,Calle A 54,52459,Chicago,Estados Unidos,Partner,https://linkedin.com/in/user283,"['Frutos secos', 'Sal']","['Diseño', 'Agile']",vegetariano
-284,Jose,Rodríguez,user284@example.com,pass284,,2022-01-01,2022-01-01,0,Yes,Supplier A,Facilitador de Talleres,+1,679761670,Calle E 144,73106,Múnich,Alemania,Partner,https://linkedin.com/in/user284,"['Mostaza', 'Sal']",['Softskills'],omnivoro
-285,David,Díaz,user285@example.com,pass285,,2022-01-01,2022-01-01,0,Yes,MLOps,Especialista en Marketing de E-learning,+1,659541338,Calle H 198,47233,Osaka,Japón,Partner,https://linkedin.com/in/user285,"['Altramuz', 'Apio', 'Soja']","['Diseño', 'Formación']",omnivoro
-286,David,Díaz,user286@example.com,pass286,,2022-01-01,2022-01-01,0,Yes,MLOps,Desarrollador de Contenidos,+1,678516721,Calle H 74,66449,Birmingham,Reino Unido,Partner,https://linkedin.com/in/user286,"['Mostaza', 'Frutos secos']","['Salud y Bienestar', 'Tecnología', 'Creatividad', 'Formación', 'Gestión de Proyectos']",omnivoro
-287,Carlos,Sánchez,user287@example.com,pass287,,2022-01-01,2022-01-01,0,Yes,Supplier A,Director de Tecnología,+1,637630317,Calle G 58,30544,Río de Janeiro,Brasil,Partner,https://linkedin.com/in/user287,"['Altramuz', 'Sulfitos', 'Moluscos']","['Agile', 'Formación', 'Gestión de Proyectos', 'Marketing Digital']",vegano
-288,David,García,user288@example.com,pass288,,2022-01-01,2022-01-01,0,Yes,Supplier A,Gestor de Comunidad,+1,610258018,Calle I 39,11014,Shenzhen,China,Partner,https://linkedin.com/in/user288,"['Soja', 'Azucar', 'Mariscos']","['Agile', 'Emprendimiento', 'Salud y Bienestar', 'Educación']",vegetariano
-289,Laura,Pérez,user289@example.com,pass289,,2022-01-01,2022-01-01,0,Yes,Supplier A,Director de Innovación,+1,625279847,Calle A 41,97109,Colonia,Alemania,Partner,https://linkedin.com/in/user289,[],"['Creatividad', 'Formación', 'Softskills']",omnivoro
-290,Ana,Pérez,user290@example.com,pass290,,2022-01-01,2022-01-01,0,Yes,ZOOM,Especialista en Soporte Técnico,+1,640848284,Calle A 99,32934,Houston,Estados Unidos,Partner,https://linkedin.com/in/user290,"['Azucar', 'Mariscos']","['Agile', 'Formación', 'Softskills', 'Creatividad', 'Gestión de Proyectos']",omnivoro
-291,Juan,Hernández,user291@example.com,pass291,,2022-01-01,2022-01-01,0,Yes,Supplier B,Gestor de Comunidad,+1,631001320,Calle A 119,61493,Lyon,Francia,Partner,https://linkedin.com/in/user291,[],"['Marketing Digital', 'Diseño', 'Softskills', 'Salud y Bienestar']",vegano
-292,Luis,Martínez,user292@example.com,pass292,,2022-01-01,2022-01-01,0,Yes,MLOps,Director de Innovación,+1,624169477,Calle J 92,46913,Brisbane,Australia,Partner,https://linkedin.com/in/user292,['Apio'],"['Formación', 'Tecnología', 'Negocios', 'Educación', 'Softskills']",omnivoro
-293,Maria,Martínez,user293@example.com,pass293,,2022-01-01,2022-01-01,0,Yes,Supplier B,Director de Tecnología,+1,682412786,Calle E 109,94453,Marsella,Francia,Partner,https://linkedin.com/in/user293,"['Mariscos', 'Pescado', 'Sal']","['Formación', 'Diseño', 'Educación']",vegano
-294,Jose,Martínez,user294@example.com,pass294,,2022-01-01,2022-01-01,0,Yes,MLOps,Diseñador Instruccional,+1,665894878,Calle H 84,53513,Shanghái,China,Partner,https://linkedin.com/in/user294,"['Sal', 'Pescado', 'Sésamo']","['Emprendimiento', 'Marketing Digital', 'Negocios']",vegetariano
-295,Laura,Hernández,user295@example.com,pass295,,2022-01-01,2022-01-01,0,Yes,Supplier B,Especialista en Soporte Técnico,+1,670735395,Calle G 195,96266,Nápoles,Italia,Partner,https://linkedin.com/in/user295,[],"['Softskills', 'Salud y Bienestar', 'Diseño', 'Tecnología']",vegano
-296,Maria,López,user296@example.com,pass296,,2022-01-01,2022-01-01,0,Yes,Supplier B,Consultor de E-learning,+1,634481901,Calle J 160,17256,Río de Janeiro,Brasil,Partner,https://linkedin.com/in/user296,"['Moluscos', 'Pescado', 'Apio']",['Salud y Bienestar'],omnivoro
-297,Maria,Rodríguez,user297@example.com,pass297,,2022-01-01,2022-01-01,0,Yes,Supplier A,Desarrollador de Contenidos,+1,694795969,Calle B 47,62416,Cantón,China,Partner,https://linkedin.com/in/user297,[],"['Emprendimiento', 'Negocios', 'Educación']",vegetariano
-298,Marta,Martínez,user298@example.com,pass298,,2022-01-01,2022-01-01,0,Yes,MLOps,Diseñador Instruccional,+1,651222686,Calle H 16,82170,Tokio,Japón,Partner,https://linkedin.com/in/user298,"['Azucar', 'Frutos secos']","['Creatividad', 'Emprendimiento', 'Agile', 'Gestión de Proyectos']",vegano
-299,Jose,Hernández,user299@example.com,pass299,,2022-01-01,2022-01-01,0,Yes,Supplier B,Gestor de Proyectos,+1,648833961,Calle I 24,41275,Palermo,Italia,Partner,https://linkedin.com/in/user299,"['Mariscos', 'Cacahuetes', 'Sal']","['Marketing Digital', 'Gestión de Proyectos', 'Salud y Bienestar']",vegetariano
-300,Isabel,Gómez,user300@example.com,pass300,,2022-01-01,2022-01-01,0,Yes,ZOOM,Gestor de Proyectos,+1,686920253,Calle G 116,19149,Londres,Reino Unido,Partner,https://linkedin.com/in/user300,"['Azucar', 'Mostaza']",['Diseño'],vegetariano
+name,surname,email,password,company,id_supplier
+Alejandro,Noguera,alejandro.noguera@ciscosystems.com,MzmO}6*),Cisco Systems,6681212c23dc5dfced3d25c9
+Elena,Muñoz,elena.muñoz@tecnologíaeducativa.com,j\DMF6%l,Tecnología Educativa,6681212c23dc5dfced3d25bb
+Marina,Tornell,marina.tornell@aprendizajeinteractivo.com,nb9u1*F7,Aprendizaje Interactivo,6681212c23dc5dfced3d25be
+Sara,Moreno,sara.moreno@aprendizajeinteractivo.com,12y:nyV7,Aprendizaje Interactivo,6681212c23dc5dfced3d25be
+Pablo,Sánchez,pablo.sánchez@educaciónadistancia.com,N8mpUl7v,Educación a Distancia,6681212c23dc5dfced3d25bc
+Eva,Alonso,eva.alonso@adobeinc.com,Tn19rdr5,Adobe Inc,6681212c23dc5dfced3d25c5
+David,Noguera,david.noguera@aprendizajeinteractivo.com,W576r}QN,Aprendizaje Interactivo,6681212c23dc5dfced3d25be
+Jairo,Contreras,jairo.contreras@adobeinc.com,c8cy~fVo,Adobe Inc,6681212c23dc5dfced3d25c5
+David,Verdejo,david.verdejo@tecnologíaeducativa.com,jm7f(rKG,Tecnología Educativa,6681212c23dc5dfced3d25bb
+Sara,Hernandez,sara.hernandez@ciscosystems.com,%QpCXPYJ,Cisco Systems,6681212c23dc5dfced3d25c9
+Marina,Contreras,marina.contreras@tecnologíaeducativa.com,a1K>QlS%,Tecnología Educativa,6681212c23dc5dfced3d25bb
+Elena,Moreno,elena.moreno@aprendizajeinteractivo.com,-v`bKmj?,Aprendizaje Interactivo,6681212c23dc5dfced3d25be
+Lucia,Alvarez,lucia.alvarez@educaciónonline.com,D?o{p1?c,Educación Online,6681212c23dc5dfced3d25bf
+Jairo,Ruiz,jairo.ruiz@aulavirtual.com,Myb6Kpyr,Aula Virtual,6681212c23dc5dfced3d25c4
+Laura,Martinez,laura.martinez@lgcorporation.com,8*wzBD1r,LG Corporation,6681212c23dc5dfced3d25cc
+Manuel,Romero,manuel.romero@educaciónadistancia.com,I^\VWwu@,Educación a Distancia,6681212c23dc5dfced3d25bc
+Christian,Moreno,christian.moreno@educaciónonline.com,$TxY=4tm,Educación Online,6681212c23dc5dfced3d25bf
+Adrian,Riera,adrian.riera@ciscosystems.com,<gXXg@G3,Cisco Systems,6681212c23dc5dfced3d25c9
+Juan,Ruiz,juan.ruiz@samsungelectronics.com,:R_K.|Z+,Samsung Electronics,6681212c23dc5dfced3d25cd
+Juan,Hernandez,juan.hernandez@educaciónonline.com,^>o2w$aP,Educación Online,6681212c23dc5dfced3d25bf
+Rocio,Ruiz,rocio.ruiz@formacióndigital.com,}j_/C.0U,Formación Digital,6681212c23dc5dfced3d25c1
+Manuel,Gamarra,manuel.gamarra@tecnologíaeducativa.com,GjAw1&!',Tecnología Educativa,6681212c23dc5dfced3d25bb
+Sara,Martín,sara.martín@campusvirtual.com,c2XEUN{#,Campus Virtual,6681212c23dc5dfced3d25c0
+Eva,Tornell,eva.tornell@aprendizajeinteractivo.com,"1(K{(""(&",Aprendizaje Interactivo,6681212c23dc5dfced3d25be
+Manuel,Contreras,manuel.contreras@educaciónonline.com,!A#yhwUj,Educación Online,6681212c23dc5dfced3d25bf
+Jairo,Martinez,jairo.martinez@hpinc.com,"~/M+;,""j",HP Inc,6681212c23dc5dfced3d25c7
+Manuel,Ruiz,manuel.ruiz@campusvirtual.com,bdC}r=Zk,Campus Virtual,6681212c23dc5dfced3d25c0
+Elena,Alonso,elena.alonso@appleinc.com,"6)^=z3/""",Apple Inc,6681212c23dc5dfced3d25ce
+Pablo,Garcia,pablo.garcia@sonycorporation.com,Ioq{%$hf,Sony Corporation,6681212c23dc5dfced3d25cb
+Eva,Gamarra,eva.gamarra@e-learningespaña.com,AkQqH2{3,E-learning España,6681212c23dc5dfced3d25c3
+Adrian,Moreno,adrian.moreno@e-learningespaña.com,emc1HcL?,E-learning España,6681212c23dc5dfced3d25c3
+Alejandro,Alvarez,alejandro.alvarez@educaciónadistancia.com,"F1ZNv',W",Educación a Distancia,6681212c23dc5dfced3d25bc
+Lucia,Verdejo,lucia.verdejo@appleinc.com,%bgNqfyQ,Apple Inc,6681212c23dc5dfced3d25ce
+Bruno,Tornell,bruno.tornell@campusvirtual.com,1g/@DCP%,Campus Virtual,6681212c23dc5dfced3d25c0
+Manuel,Alvarez,manuel.alvarez@plataformaeducativa.com,<z2qol8I,Plataforma Educativa,6681212c23dc5dfced3d25c2
+Lucia,Martín,lucia.martín@sonycorporation.com,}T`Rts~S,Sony Corporation,6681212c23dc5dfced3d25cb
+Sara,Hernandez,sara.hernandez@ciscosystems.com,PfWuvi7A,Cisco Systems,6681212c23dc5dfced3d25c9
+Sara,Gamarra,sara.gamarra@aulavirtual.com,*>sA~e\},Aula Virtual,6681212c23dc5dfced3d25c4
+Bruno,Martinez,bruno.martinez@huaweitechnologies.com,:M'(T1Wp,Huawei Technologies,6681212c23dc5dfced3d25ca
+Christian,Noguera,christian.noguera@formacióndigital.com,Ftj1q\-7,Formación Digital,6681212c23dc5dfced3d25c1
+Rocio,Alvarez,rocio.alvarez@samsungelectronics.com,a;DMsrT%,Samsung Electronics,6681212c23dc5dfced3d25cd
+Adrian,Ruiz,adrian.ruiz@educaciónadistancia.com,RqyL2<\K,Educación a Distancia,6681212c23dc5dfced3d25bc
+Jairo,Rodrguez,jairo.rodrguez@lgcorporation.com,US{(Lo_h,LG Corporation,6681212c23dc5dfced3d25cc
+Elena,Riera,elena.riera@tecnologíaeducativa.com,;h\m;o+b,Tecnología Educativa,6681212c23dc5dfced3d25bb
+Adrian,Martinez,adrian.martinez@clasesenlínea.com,FAOyJ_+5,Clases en Línea,6681212c23dc5dfced3d25bd
+Adrian,Rodrguez,adrian.rodrguez@clasesenlínea.com,{F`{yH!r,Clases en Línea,6681212c23dc5dfced3d25bd
+Laura,Alonso,laura.alonso@appleinc.com,%p5e]d9O,Apple Inc,6681212c23dc5dfced3d25ce
+Rocio,Noguera,rocio.noguera@huaweitechnologies.com,R0|^WE|V,Huawei Technologies,6681212c23dc5dfced3d25ca
+Christian,Muñoz,christian.muñoz@plataformaeducativa.com,@~BPqE.o,Plataforma Educativa,6681212c23dc5dfced3d25c2
+Rocio,Moreno,rocio.moreno@adobeinc.com,\dKRFfb=,Adobe Inc,6681212c23dc5dfced3d25c5
+Pablo,Martinez,pablo.martinez@educaciónonline.com,9^F]$C~U,Educación Online,6681212c23dc5dfced3d25bf
+Manuel,Contreras,manuel.contreras@lgcorporation.com,pSgKxN_p,LG Corporation,6681212c23dc5dfced3d25cc
+Laura,Gamarra,laura.gamarra@lgcorporation.com,K=RZto-e,LG Corporation,6681212c23dc5dfced3d25cc
+Miguel,Rodrguez,miguel.rodrguez@aulavirtual.com,o^DPT.ix,Aula Virtual,6681212c23dc5dfced3d25c4
+Eva,Alvarez,eva.alvarez@samsungelectronics.com,"6X,+KGk%",Samsung Electronics,6681212c23dc5dfced3d25cd
+David,Hernandez,david.hernandez@clasesenlínea.com,d&3Z[AbP,Clases en Línea,6681212c23dc5dfced3d25bd
+Marina,Verdejo,marina.verdejo@ibm.com,"|,)fyb9]",IBM,6681212c23dc5dfced3d25c8
+Alejandro,Muñoz,alejandro.muñoz@sonycorporation.com,^qh7?BCF,Sony Corporation,6681212c23dc5dfced3d25cb
+Pablo,Romero,pablo.romero@ibm.com,U#fS&dxq,IBM,6681212c23dc5dfced3d25c8
+Alejandro,Moreno,alejandro.moreno@ciscosystems.com,{qX;wHy[,Cisco Systems,6681212c23dc5dfced3d25c9
+Rocio,Contreras,rocio.contreras@academiaonline.com,")&kN>,C}",Academia Online,
+Eva,Hernandez,eva.hernandez@edustream.com,"""k]M2|3?",EduStream,
+David,Romero,david.romero@teched.com,%~(I+3}`,TechEd,
+Alejandro,Tornell,alejandro.tornell@edumaster.com,j6w/J(lQ,EduMaster,
+Laura,Martinez,laura.martinez@edtechinnovators.com,m?;ww6^*,EdTech Innovators,
+Sara,Alonso,sara.alonso@studyhub.com,5!a9ZBvi,StudyHub,
+Bruno,Hernandez,bruno.hernandez@knowledgesource.com,":s:|V<Y,",KnowledgeSource,
+Adrian,Rodrguez,adrian.rodrguez@e-learn.com,wfC9+cbW,E-Learn,
+Sara,Romero,sara.romero@virtualacademy.com,"MhCZ/nI""",Virtual Academy,
+Marina,Alonso,marina.alonso@edtechinnovators.com,XS`9T^.o,EdTech Innovators,
+Elena,Tornell,elena.tornell@digitalcampus.com,",cG=R0Fy",Digital Campus,
+Adrian,Noguera,adrian.noguera@eduinnovators.com,"})AzbH=""",EduInnovators,
+Adrian,Ruiz,adrian.ruiz@e-school.com,sX2812u`,E-School,
+Jairo,Garcia,jairo.garcia@skillup.com,j}~:*:BT,SkillUp,
+Marina,Martín,marina.martín@knowledgehub.com,C]uD\02c,KnowledgeHub,
+Juan,Alvarez,juan.alvarez@edumaster.com,wN2Ez-q_,EduMaster,
+Rocio,Riera,rocio.riera@digitalacademy.com,CHQM?2@),Digital Academy,
+Eva,Martinez,eva.martinez@virtualclassroom.com,Y8m5r=mT,Virtual Classroom,
+Jairo,Alonso,jairo.alonso@edtechinnovators.com,A0lw.DA/,EdTech Innovators,
+Elena,Gamarra,elena.gamarra@eduwave.com,jA|301$N,EduWave,
+Victor,Verdejo,victor.verdejo@smartlearning.com,\nBqp}*1,Smart Learning,
+Victor,Martinez,victor.martinez@knowledgebase.com,?wc<Dmi:,Knowledge Base,
+Miguel,Hernandez,miguel.hernandez@futurelearn.com,giXrR<J9,FutureLearn,
+David,Hernandez,david.hernandez@onlineeducators.com,@A)SZY=l,Online Educators,
+Christian,Romero,christian.romero@eduwave.com,x56UIZ0<,EduWave,
+Pablo,Contreras,pablo.contreras@edustream.com,"""=I/1C?F",EduStream,
+David,Romero,david.romero@e-school.com,gXXJ=/EK,E-School,
+Laura,Moreno,laura.moreno@learningtree.com,"FBX%""f:b",LearningTree,
+Alejandro,Riera,alejandro.riera@onlinestudy.com,AT|<Zns3,Online Study,
+Rocio,Martinez,rocio.martinez@prolearn.com,'`h]*ZYv,ProLearn,
+David,Noguera,david.noguera@studyhub.com,)bB.)dA\,StudyHub,
+Jairo,Gamarra,jairo.gamarra@innovativelearning.com,mM'5)m+K,Innovative Learning,
+Eva,Ruiz,eva.ruiz@onlinestudy.com,.~/|Nx?o,Online Study,
+David,Noguera,david.noguera@learningtree.com,+6GcC7Xp,LearningTree,
+Pablo,Rodrguez,pablo.rodrguez@skillboost.com,wB4aOMjD,SkillBoost,
+Jairo,Moreno,jairo.moreno@knowledgesource.com,"~CG~Y,mp",KnowledgeSource,
+Christian,Moreno,christian.moreno@onlineeducationgroup.com,&-v^X_v\,Online Education Group,
+Victor,Contreras,victor.contreras@onlineeducationgroup.com,W$1;=%fx,Online Education Group,
+Jairo,Muñoz,jairo.muñoz@edtechinnovators.com,"gXG8\q,|",EdTech Innovators,
+Adrian,Tornell,adrian.tornell@smartlearning.com,R[xE!&{k,Smart Learning,
+Marina,Verdejo,marina.verdejo@edustream.com,~IVnxW=7,EduStream,
+Lucia,Contreras,lucia.contreras@learnify.com,JYFy0+cx,Learnify,
+Adrian,Alvarez,adrian.alvarez@virtualscholars.com,^s]+%DHX,Virtual Scholars,
+Miguel,Gamarra,miguel.gamarra@studypoint.com,SBIk8LnF,StudyPoint,
+Rocio,Martín,rocio.martín@techsolutions.com,DOV]CGL&,Tech Solutions,
+Lucia,Riera,lucia.riera@onlineacademy.com,*8(E/.BY,Online Academy,
+Manuel,Sánchez,manuel.sánchez@onlineeducationgroup.com,qFPrQt25,Online Education Group,
+Adrian,Alonso,adrian.alonso@skillup.com,#jcl`/u_,SkillUp,
+Eva,Contreras,eva.contreras@learnify.com,q75!S6W[,Learnify,
+Juan,Alvarez,juan.alvarez@virtualacademy.com,_Fd~\vy!,Virtual Academy,
+Manuel,Moreno,manuel.moreno@virtualacademy.com,SV;K<`Xf,Virtual Academy,
+Elena,Moreno,elena.moreno@e-school.com,@C<?nfdQ,E-School,
+Sara,Sánchez,sara.sánchez@educore.com,@FX2j|o\,EduCore,
+Manuel,Verdejo,manuel.verdejo@skilltech.com,\R6}|wE|,SkillTech,
+Juan,Rodrguez,juan.rodrguez@onlineacademy.com,)C^W|<Ef,Online Academy,
+Adrian,Riera,adrian.riera@studypoint.com,!dMId4y0,StudyPoint,
+Adrian,Alonso,adrian.alonso@teched.com,bDLBM|l-,TechEd,
+Sara,Garcia,sara.garcia@edupro.com,"\FL,flE\",EduPro,
+Rocio,Martinez,rocio.martinez@smartlearning.com,-3rq(m9y,Smart Learning,
+Laura,Romero,laura.romero@smartedu.com,sclT>)xY,Smart Edu,
+Eva,Martín,eva.martín@teched.com,.wZiRu[:,TechEd,
+Lucia,Martinez,lucia.martinez@eduwave.com,hee>F24f,EduWave,
+Juan,Martinez,juan.martinez@onlineacademy.com,=Xa0Pxo&,Online Academy,
+Elena,Romero,elena.romero@learnnet.com,=%c=@#le,LearnNet,
+Jairo,Romero,jairo.romero@onlineacademyplus.com,"zIc""Nfcw",Online Academy Plus,
+Adrian,Moreno,adrian.moreno@techacademy.com,}`IB5}ef,Tech Academy,
+Alejandro,Martinez,alejandro.martinez@educore.com,1RU64m}g,EduCore,
+Alejandro,Tornell,alejandro.tornell@skilltech.com,8HF%Yk0&,SkillTech,
+Miguel,Martín,miguel.martín@learningtree.com,pE<R@-7t,LearningTree,
+Elena,Contreras,elena.contreras@digitalacademy.com,N9$6&rDC,Digital Academy,
+Juan,Gamarra,juan.gamarra@educore.com,p5il1S1;,EduCore,
+Marina,Tornell,marina.tornell@skilltech.com,~4A5I#<N,SkillTech,
+Sara,Rodrguez,sara.rodrguez@teched.com,"9+FU_e""z",TechEd,
+Elena,Martín,elena.martín@eduinnovators.com,{[c@&)+@,EduInnovators,
+Eva,Sánchez,eva.sánchez@edutechpro.com,nv#IXOX=,EduTech Pro,
+Elena,Sánchez,elena.sánchez@learningzone.com,55!~?6w<,Learning Zone,
+Elena,Garcia,elena.garcia@e-learn.com,cx`2zPPh,E-Learn,
+Marina,Hernandez,marina.hernandez@studyhub.com,W%/xEbvE,StudyHub,
+Laura,Martinez,laura.martinez@skillup.com,cK?F<kC!,SkillUp,
+Rocio,Noguera,rocio.noguera@digitalacademy.com,y`92GZLD,Digital Academy,
+Bruno,Alvarez,bruno.alvarez@edunetwork.com,B1U\\cd2,EduNetwork,
+David,Riera,david.riera@edumaster.com,"|W,0f?1]",EduMaster,
+Rocio,Hernandez,rocio.hernandez@nextgenlearning.com,[7-dFe`1,NextGen Learning,
+Alejandro,Tornell,alejandro.tornell@proedu.com,"aK0E,KrZ",ProEdu,
+Juan,Gamarra,juan.gamarra@eduworld.com,a~.#d2B_,EduWorld,
+Miguel,Noguera,miguel.noguera@learningtree.com,bfX$BV$h,LearningTree,
+Marina,Alonso,marina.alonso@techacademy.com,"Tv,""Tp-@",Tech Academy,
+Manuel,Martín,manuel.martín@eduinnovators.com,_OC%zd4{,EduInnovators,
+Jairo,Riera,jairo.riera@futurelearn.com,bX%L4>b>,Future Learn,
+Christian,Alvarez,christian.alvarez@eduworld.com,qzv-hMi8,EduWorld,
+Bruno,Alonso,bruno.alonso@edunetwork.com,fk_iSsW/,EduNetwork,
+Lucia,Noguera,lucia.noguera@onlineacademy.com,w8kz1BF=,Online Academy,
+Miguel,Rodrguez,miguel.rodrguez@learningpro.com,QU!6GyXM,LearningPro,
+Alejandro,Verdejo,alejandro.verdejo@e-school.com,"oy#.b""hR",E-School,
+Elena,Rodrguez,elena.rodrguez@skillboost.com,"XMw,M\0M",SkillBoost,
+Pablo,Martín,pablo.martín@edumaster.com,$8#|G5XF,EduMaster,
+Elena,Garcia,elena.garcia@skillboost.com,?rH:i#&~,SkillBoost,
+David,Romero,david.romero@prolearn.com,A>XtWDM&,ProLearn,
+Victor,Martinez,victor.martinez@techsolutions.com,EWCa%wCe,Tech Solutions,
+Juan,Riera,juan.riera@techacademy.com,`-vRb|-@,Tech Academy,
+Alejandro,Noguera,alejandro.noguera@learnify.com,:u(9r2*f,Learnify,
+Miguel,Alvarez,miguel.alvarez@teched.com,T)@4G-f=,TechEd,
+Jairo,Contreras,jairo.contreras@edupath.com,lo3k4Xs%,EduPath,
+Alejandro,Riera,alejandro.riera@onlineacademy.com,`GCrr'4O,Online Academy,
+Bruno,Rodrguez,bruno.rodrguez@onlinestudy.com,N%0$tbG},Online Study,
+Eva,Hernandez,eva.hernandez@smarteducation.com,-wC'jD2B,Smart Education,
+Miguel,Sánchez,miguel.sánchez@e-study.com,k-.kw@d>,E-Study,
+Marina,Verdejo,marina.verdejo@smartedu.com,"%*V,SWlx",Smart Edu,
+Marina,Garcia,marina.garcia@smarteducation.com,"T1quc""]*",Smart Education,
+Elena,Muñoz,elena.muñoz@studypoint.com,YPL:q4J/,StudyPoint,
+Miguel,Hernandez,miguel.hernandez@digitalcampus.com,)Q&kBx7V,Digital Campus,
+Pablo,Ruiz,pablo.ruiz@virtualacademy.com,"h""\Q?^_m",Virtual Academy,
+Lucia,Muñoz,lucia.muñoz@futurelearn.com,I<'|(zle,FutureLearn,
+Juan,Hernandez,juan.hernandez@smartedu.com,!&4cCEh!,Smart Edu,
+Marina,Contreras,marina.contreras@edustream.com,v~FD?/Re,EduStream,
+Alejandro,Verdejo,alejandro.verdejo@nextgenlearning.com,q3aQ#iyM,NextGen Learning,
+Elena,Verdejo,elena.verdejo@skillup.com,^]+Nx9W`,SkillUp,
+Christian,Gamarra,christian.gamarra@skillup.com,N*~J{b)t,SkillUp,
+David,Ruiz,david.ruiz@learningpro.com,<W5H+lN7,LearningPro,
+Sara,Muñoz,sara.muñoz@prolearn.com,h2*I(|^|,ProLearn,
+David,Martinez,david.martinez@innovativelearning.com,*rO\+zy\,Innovative Learning,
+Elena,Tornell,elena.tornell@eduworld.com,"q5UJZf,y",EduWorld,
+Lucia,Alvarez,lucia.alvarez@innovativelearning.com,Lr9WALId,Innovative Learning,
+Rocio,Alvarez,rocio.alvarez@futurelearn.com,c.ZfGis(,Future Learn,
+Rocio,Martinez,rocio.martinez@onlineeducationgroup.com,2u9k%jo^,Online Education Group,
+Elena,Noguera,elena.noguera@smartlearning.com,tY&eUvPE,Smart Learning,
+Elena,Gamarra,elena.gamarra@smartlearning.com,pzU#WpO7,Smart Learning,
+Eva,Muñoz,eva.muñoz@e-study.com,"nI~,WR`T",E-Study,
+Juan,Rodrguez,juan.rodrguez@teched.com,n-*BjePb,TechEd,
+David,Riera,david.riera@learnpro.com,{H[]DD/f,LearnPro,
+Adrian,Gamarra,adrian.gamarra@techlearn.com,sUX@~uA8,Tech Learn,
+Juan,Rodrguez,juan.rodrguez@proedu.com,)a`J_W>#,ProEdu,
+Lucia,Romero,lucia.romero@knowledgesource.com,q}<b(KXR,KnowledgeSource,
+Alejandro,Tornell,alejandro.tornell@techacademy.com,HmYD5tVa,Tech Academy,
+Jairo,Tornell,jairo.tornell@edustream.com,o=Aa)W87,EduStream,
+Bruno,Sánchez,bruno.sánchez@eduinnovators.com,uq0H6cFx,EduInnovators,
+Jairo,Martín,jairo.martín@coursehub.com,4E*&)N=N,CourseHub,
+Miguel,Alvarez,miguel.alvarez@e-learn.com,"]~"":$HfD",E-Learn,
+Jairo,Riera,jairo.riera@edupro.com,~9)\`=]a,EduPro,
+Marina,Martinez,marina.martinez@virtualscholars.com,emA|$j*b,Virtual Scholars,
+Elena,Muñoz,elena.muñoz@learningpro.com,`tMe$9]?,LearningPro,
+Miguel,Tornell,miguel.tornell@learningpro.com,"P?uYB""]l",LearningPro,
+Sara,Hernandez,sara.hernandez@learningzone.com,L7>~QRPY,Learning Zone,
+Eva,Noguera,eva.noguera@digitalacademy.com,)?C}M=;),Digital Academy,
+Miguel,Alvarez,miguel.alvarez@smarteducation.com,Pw%^!W\b,Smart Education,
+David,Noguera,david.noguera@digitalcampus.com,tq%tmWJ4,Digital Campus,
+Sara,Ruiz,sara.ruiz@knowledgebase.com,LRl1t}N;,Knowledge Base,
+Jairo,Riera,jairo.riera@knowledgehub.com,u6aHZX.t,KnowledgeHub,
+Lucia,Noguera,lucia.noguera@studypoint.com,k1[:!q0j,StudyPoint,
+Manuel,Moreno,manuel.moreno@knowledgehub.com,i&LgvEm:,KnowledgeHub,
+Marina,Sánchez,marina.sánchez@e-study.com,S*%mp_1a,E-Study,
+Victor,Noguera,victor.noguera@edupro.com,-baMQ*~/,EduPro,
+Alejandro,Muñoz,alejandro.muñoz@onlineeducationgroup.com,LETmq4YN,Online Education Group,
+Jairo,Verdejo,jairo.verdejo@virtualclassroom.com,\:Cc8!zB,Virtual Classroom,
+Eva,Rodrguez,eva.rodrguez@virtualclassroom.com,">Cke""80L",Virtual Classroom,
+Laura,Alvarez,laura.alvarez@studypoint.com,.%i#h0bm,StudyPoint,
+Rocio,Gamarra,rocio.gamarra@futureed.com,iLM~rBB&,FutureEd,
+David,Contreras,david.contreras@virtualacademy.com,"k|cWvnO""",Virtual Academy,
+Marina,Tornell,marina.tornell@edustream.com,P:D4K?0q,EduStream,
+Bruno,Noguera,bruno.noguera@virtualacademy.com,H5?=*juq,Virtual Academy,
+Manuel,Alvarez,manuel.alvarez@edupro.com,_9^]A@;<,EduPro,
+Victor,Martinez,victor.martinez@edutechpro.com,F>sQX0a9,EduTech Pro,
+Eva,Contreras,eva.contreras@academiaonline.com,"i@""Rw`kb",Academia Online,
+Jairo,Gamarra,jairo.gamarra@knowledgebase.com,-gO8h.UX,Knowledge Base,
+Elena,Tornell,elena.tornell@e-study.com,._6xK}Ib,E-Study,
+Marina,Riera,marina.riera@prolearn.com,"aKq_?5F,",ProLearn,
+Bruno,Alonso,bruno.alonso@onlineacademy.com,tP2W+b2X,Online Academy,
+Elena,Romero,elena.romero@edupath.com,KsXd69i>,EduPath,
+David,Gamarra,david.gamarra@edunetwork.com,84&=D'NN,EduNetwork,
+Sara,Alonso,sara.alonso@eduwave.com,NL[/Y=V/,EduWave,
+Juan,Alvarez,juan.alvarez@edtechinnovators.com,z-}!a!HP,EdTech Innovators,
+Christian,Martinez,christian.martinez@edutech.com,=KcN&sP%,EduTech,
+Laura,Contreras,laura.contreras@educore.com,"M""9]-4ET",EduCore,
+Jairo,Tornell,jairo.tornell@techlearn.com,"Gd$=e;#""",Tech Learn,
+Miguel,Martinez,miguel.martinez@learningpoint.com,"m""z#oM@B",Learning Point,
+Pablo,Ruiz,pablo.ruiz@eduworld.com,V)@]{h\3,EduWorld,
+Christian,Verdejo,christian.verdejo@onlinescholars.com,!]/r-LKH,Online Scholars,
+David,Sánchez,david.sánchez@innovativelearning.com,"_MUpaY|""",Innovative Learning,
+Sara,Martín,sara.martín@eduinnovators.com,G'SxH=zN,EduInnovators,
+Eva,Alvarez,eva.alvarez@knowledgehub.com,",{rEtl5^",KnowledgeHub,
+Christian,Contreras,christian.contreras@smarteducation.com,"[!~p""J<!",Smart Education,
+Alejandro,Romero,alejandro.romero@knowledgehub.com,$6[XaK{U,KnowledgeHub,
+Manuel,Sánchez,manuel.sánchez@academiaonline.com,!(9B<L?u,Academia Online,
+Miguel,Romero,miguel.romero@eduworld.com,-*cc.Xfi,EduWorld,
+Jairo,Tornell,jairo.tornell@studypoint.com,K+ONK4cw,StudyPoint,
+Adrian,Gamarra,adrian.gamarra@digitalacademy.com,Q&#Fs\~e,Digital Academy,
+Juan,Verdejo,juan.verdejo@virtualclassroom.com,_`c44Ifk,Virtual Classroom,
+Victor,Tornell,victor.tornell@e-learn.com,nj.Toc4G,E-Learn,
+Rocio,Alvarez,rocio.alvarez@studyhub.com,/G}a:9<),StudyHub,
+Marina,Contreras,marina.contreras@e-school.com,Q:B#6j\y,E-School,
+Miguel,Rodrguez,miguel.rodrguez@educore.com,0Zdp@Q|.,EduCore,
+Victor,Noguera,victor.noguera@studypoint.com,C:ohBbJV,StudyPoint,
+Victor,Alonso,victor.alonso@onlineeducationgroup.com,5dEwb]HU,Online Education Group,
+Jairo,Sánchez,jairo.sánchez@virtualscholars.com,LZ?=xO&f,Virtual Scholars,
+Laura,Moreno,laura.moreno@proedu.com,QiU+eZE',ProEdu,
+Rocio,Sánchez,rocio.sánchez@virtualscholars.com,H{TZ&p!6,Virtual Scholars,
+Eva,Hernandez,eva.hernandez@eduinnovators.com,$]$H=)bv,EduInnovators,
+Eva,Muñoz,eva.muñoz@techsolutions.com,yBO<$ix1,Tech Solutions,
+Bruno,Garcia,bruno.garcia@coursehub.com,Shs8vd1O,CourseHub,
+Rocio,Noguera,rocio.noguera@proedu.com,UW]K[{w/,ProEdu,
+Rocio,Garcia,rocio.garcia@e-school.com,pf^b=dK8,E-School,
+Elena,Hernandez,elena.hernandez@learningtree.com,g0|rDE%`,LearningTree,
+Jairo,Ruiz,jairo.ruiz@skilltech.com,=VYje3/4,SkillTech,
+Rocio,Gamarra,rocio.gamarra@virtualscholars.com,#[X?$r{O,Virtual Scholars,
+Bruno,Contreras,bruno.contreras@techlearn.com,Uqq_Ced@,Tech Learn,
+Sara,Noguera,sara.noguera@techsolutions.com,IjIK3$N4,Tech Solutions,
+Elena,Gamarra,elena.gamarra@learnify.com,Op(oM-kQ,Learnify,
+Bruno,Sánchez,bruno.sánchez@studypro.com,G(yT:amZ,StudyPro,
+Bruno,Ruiz,bruno.ruiz@innovativelearning.com,"""g<Hgd@]",Innovative Learning,
+Juan,Contreras,juan.contreras@techsolutions.com,l8YES^3N,Tech Solutions,
+Pablo,Alonso,pablo.alonso@onlinestudy.com,c*YJG3|',Online Study,
+Jairo,Moreno,jairo.moreno@studypro.com,^Seh?ZLd,StudyPro,
+Adrian,Romero,adrian.romero@edutechpro.com,<+fUrws',EduTech Pro,
+Jairo,Ruiz,jairo.ruiz@academiaonline.com,}vLTg.zk,Academia Online,
+Victor,Verdejo,victor.verdejo@edustream.com,}aT#]4r[,EduStream,
+David,Hernandez,david.hernandez@teched.com,kUK4Pz(],TechEd,
+Adrian,Alvarez,adrian.alvarez@skilltech.com,"{""?S<9$I",SkillTech,
+Pablo,Gamarra,pablo.gamarra@virtualacademy.com,yT.bpm<H,Virtual Academy,
+Lucia,Sánchez,lucia.sánchez@digitalacademy.com,YKkh]S8E,Digital Academy,
+Miguel,Rodrguez,miguel.rodrguez@edumaster.com,6la8pq7n,EduMaster,
+Eva,Alvarez,eva.alvarez@academiaonline.com,5qcuKCz(,Academia Online,
+Pablo,Rodrguez,pablo.rodrguez@onlinestudy.com,dA|:#JpR,Online Study,
+Miguel,Romero,miguel.romero@e-study.com,#\I:4N5@,E-Study,
+Juan,Verdejo,juan.verdejo@learnnet.com,vqU3g<^v,LearnNet,
+Jairo,Muñoz,jairo.muñoz@coursehub.com,"=M^Wv""z~",CourseHub,
+Rocio,Alonso,rocio.alonso@eduplatform.com,"<)<U9'I""",EduPlatform,
+Bruno,Romero,bruno.romero@innovativelearning.com,xWLr515b,Innovative Learning,
+Marina,Tornell,marina.tornell@virtualacademy.com,cEJv%Qi+,Virtual Academy,
+Sara,Muñoz,sara.muñoz@studypro.com,i-fGQLdN,StudyPro,
+Adrian,Martinez,adrian.martinez@learningpoint.com,C'xI=f05,Learning Point,
+Christian,Hernandez,christian.hernandez@e-learn.com,"=,~`~7|J",E-Learn,
+Adrian,Tornell,adrian.tornell@nextgenlearning.com,RA8uzm`|,NextGen Learning,
+Lucia,Garcia,lucia.garcia@proedu.com,Z@6/mKE.,ProEdu,
+Lucia,Noguera,lucia.noguera@eduplatform.com,dM%~AeiM,EduPlatform,
+Laura,Moreno,laura.moreno@knowledgehub.com,R|#[mi*u,KnowledgeHub,
+Victor,Martín,victor.martín@edutechpro.com,&pXMI23{,EduTech Pro,
+Christian,Riera,christian.riera@futureed.com,"}T&,L8(p",FutureEd,
+David,Romero,david.romero@studypro.com,qk5>w5Gu,StudyPro,
+Victor,Muñoz,victor.muñoz@onlineeducators.com,6<S.Z\(4,Online Educators,
+Victor,Moreno,victor.moreno@onlineacademyplus.com,#s]gB#/D,Online Academy Plus,
