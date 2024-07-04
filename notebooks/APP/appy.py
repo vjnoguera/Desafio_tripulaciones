@@ -14,7 +14,7 @@ from io import BytesIO
 
 app = Flask(__name__)
 
-co = cohere.Client(api_key="lOGO9JDezVva0OyZAzvPOQUjlq8fUw0nJ0WeL0fS")
+co = cohere.Client(api_key="*******************")
 prompt = """necesito generar frases de felicitación de navidad para mi familia con un máximo de 5 palabras.
 tu respuesta debe ser directamente la felicitación navideña con las 8 palabras como máximo, por favor, no
 devuelvas mas palabras que eso"""
